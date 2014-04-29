@@ -1,0 +1,929 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		01656476F088484783048E6C /* attrs.c in Sources */ = {isa = PBXBuildFile; fileRef = 97E6740DA37C40A7848B7C5F /* attrs.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		0341ED1AC7914D528B64357C /* MWFeedItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 340DBB6E6C48441E929BE92D /* MWFeedItem.m */; };
+		0EFA09F560A6477297660C8C /* config.c in Sources */ = {isa = PBXBuildFile; fileRef = 36A533A7B9FD4A3A90A58B4F /* config.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		109C51CEB3194CBAA9063562 /* NSString+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CB18A8940804A23A66C8407 /* NSString+HTML.m */; };
+		15280A02D0A6465A9713AD7C /* MWImageParser.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E7C1E92690496C84F6B48A /* MWImageParser.h */; };
+		1B1C72EF8B104C9181D7ECB6 /* buffio.c in Sources */ = {isa = PBXBuildFile; fileRef = 69E5081EB4F0476B93C8748F /* buffio.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		1B716EF7EC84472E96590061 /* MWFeedItem.h in Headers */ = {isa = PBXBuildFile; fileRef = DD7DF5750B974E0CA36229EA /* MWFeedItem.h */; };
+		1C0E4E25136940489EC66B31 /* MWFeedInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D5117BEFFD64473AE22B9AB /* MWFeedInfo.h */; };
+		1FB0C6B2D62A45A3968260DA /* access.c in Sources */ = {isa = PBXBuildFile; fileRef = 2F9007513D3A461FB79BC799 /* access.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		1FE6CBCB85EE46F9BF067616 /* MWImageParser.m in Sources */ = {isa = PBXBuildFile; fileRef = E1F8C6B9F64D4EF7B6F08F39 /* MWImageParser.m */; };
+		290B60E3AB0B4FDAB5835068 /* MWFeedParser_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = D6F30EA8935340C480BBDC2F /* MWFeedParser_Private.h */; };
+		2A18E95137294CD0868B4FD3 /* streamio.c in Sources */ = {isa = PBXBuildFile; fileRef = 8B779B7E4AE54C38AB94FDE1 /* streamio.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		2C2BC62686D341EBB38E8D97 /* CTidy.h in Headers */ = {isa = PBXBuildFile; fileRef = 1ABF8217A5D54F42AAB19622 /* CTidy.h */; };
+		2F01E55D494745F4BAB2F729 /* Pods-CXFeedParser-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B7F3E53996844C2B7F8F94E /* Pods-CXFeedParser-dummy.m */; };
+		2FFA408C7E6C4991A89C018E /* NSDate+InternetDateTime.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DCF66FF2F0F438D89C514E7 /* NSDate+InternetDateTime.m */; };
+		302E2AB14F444C4ABD86002C /* win32tc.h in Headers */ = {isa = PBXBuildFile; fileRef = FF13565B4A204D7FB7ADCB05 /* win32tc.h */; };
+		383366565AF741E6BA9BD88A /* libPods-CXFeedParser.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6236A2CC1F6B415EB66600DA /* libPods-CXFeedParser.a */; };
+		3972C1DEAF2E40EEB78995D7 /* access.h in Headers */ = {isa = PBXBuildFile; fileRef = A752608AD13942D195E2286F /* access.h */; };
+		3973ACEF3B9F45A299B28F4F /* buffio.h in Headers */ = {isa = PBXBuildFile; fileRef = A0AB27FF7E1043DF967FAB3B /* buffio.h */; };
+		3DCF7275526A4CDE91C71056 /* parser.h in Headers */ = {isa = PBXBuildFile; fileRef = F58AA3160C7341F9B9532ABD /* parser.h */; };
+		44203EA167F74CF298721397 /* parser.c in Sources */ = {isa = PBXBuildFile; fileRef = 3619A7CFDDCE49FF9B5C7EC3 /* parser.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		447CDBBEF3B24A7AA36B832C /* alloc.c in Sources */ = {isa = PBXBuildFile; fileRef = 3EE342B10ACE4BEA8B78D33D /* alloc.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		44C4E1E8A3184206B358E06D /* localize.c in Sources */ = {isa = PBXBuildFile; fileRef = D9646372CBE14BDCBB86F91D /* localize.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		467B62D9ECAC45CFBA90479E /* mappedio.c in Sources */ = {isa = PBXBuildFile; fileRef = 70F270D6013A41678C6C5440 /* mappedio.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		4973CF70294F4B819A8EDAAC /* iconvtc.h in Headers */ = {isa = PBXBuildFile; fileRef = 51C5B653DC984058B6625D6E /* iconvtc.h */; };
+		4C159EA4E7E24F0E941CE4E2 /* charsets.c in Sources */ = {isa = PBXBuildFile; fileRef = 3DA9FB33C8694784A76DD105 /* charsets.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		56FCC1301A4F4EC68FFDFAB0 /* tagask.c in Sources */ = {isa = PBXBuildFile; fileRef = 35C17D65AAAD4FD191D48856 /* tagask.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		58F4C95BFF4F423A985463AC /* lexer.c in Sources */ = {isa = PBXBuildFile; fileRef = 665636FFE0FA4B81969D0898 /* lexer.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		5FC9672AA3134EA0B7162920 /* forward.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F223ED8E4CB41F9B04D5535 /* forward.h */; };
+		64DED84C8FC449D2AEB7F02A /* tmbstr.h in Headers */ = {isa = PBXBuildFile; fileRef = DFDAD9D280FD46C082172951 /* tmbstr.h */; };
+		66E554632C98491EA763E1FF /* Pods-CTidy-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 66AB4B936496464081AA2CBB /* Pods-CTidy-dummy.m */; };
+		6E16CD14BDAD411EBD3CECFD /* attrdict.c in Sources */ = {isa = PBXBuildFile; fileRef = 138CE10E3FE74BB1A8DB535C /* attrdict.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		6E601F14BD4F40758C2A04C6 /* GTMNSString+HTML.h in Headers */ = {isa = PBXBuildFile; fileRef = 675BF2221280431FB87A78A0 /* GTMNSString+HTML.h */; };
+		770FBE24208E4CA896DDD5A0 /* istack.c in Sources */ = {isa = PBXBuildFile; fileRef = 79AA0789F6DB4F0E85E522AC /* istack.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		7A131BF5D3B7441D975B287B /* MWFeedParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BDDF43D54584E07B0E46BD3 /* MWFeedParser.h */; };
+		7A816BB7C2AB4407AD51DD57 /* entities.h in Headers */ = {isa = PBXBuildFile; fileRef = 72193CA252EF4B8B9F3CCD6C /* entities.h */; };
+		7F9834F6625D49BA95CFFF4C /* win32tc.c in Sources */ = {isa = PBXBuildFile; fileRef = 513382DD6FC04B8A80206E84 /* win32tc.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		81C409C3F121435C8BE74A03 /* iconvtc.c in Sources */ = {isa = PBXBuildFile; fileRef = A8FAAF5243BD41F88375B2AA /* iconvtc.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		83DC5A262E3A4BE28DFCE9C0 /* entities.c in Sources */ = {isa = PBXBuildFile; fileRef = 72F97133F7AC4CB9A0290068 /* entities.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		85273896709F43A2B3D36976 /* tidyenum.h in Headers */ = {isa = PBXBuildFile; fileRef = F3710224498D4EF1A6513DE2 /* tidyenum.h */; };
+		85D04103CD3C423C8012A304 /* platform.h in Headers */ = {isa = PBXBuildFile; fileRef = FFF5BDEDA5DE48F8B767554C /* platform.h */; };
+		8A73B38195474639A0F35252 /* MWFeedParser.m in Sources */ = {isa = PBXBuildFile; fileRef = D52393573E2640D390EE0A3E /* MWFeedParser.m */; };
+		8B5A0F2BAE6C460CA3C701B3 /* attrs.h in Headers */ = {isa = PBXBuildFile; fileRef = A3A3B8475BF944B2A78FF924 /* attrs.h */; };
+		91B97AC35D16406FB4BF7274 /* GTMNSString+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = 938AD8743249428B8678D12F /* GTMNSString+HTML.m */; };
+		93F8660CE4E643948CBFF6D9 /* clean.c in Sources */ = {isa = PBXBuildFile; fileRef = 55D1B569725646E894A85EB0 /* clean.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		98B3F820DA3646B0806E26F1 /* tags.h in Headers */ = {isa = PBXBuildFile; fileRef = 01DB5AA9E7AD4F32B885A9E7 /* tags.h */; };
+		A25449900D524F93BC6635AB /* NSString+HTML.h in Headers */ = {isa = PBXBuildFile; fileRef = F3E86F2F1DF049FE89C8F98C /* NSString+HTML.h */; };
+		A391E37559584A5CB383D3A9 /* tidy-int.h in Headers */ = {isa = PBXBuildFile; fileRef = AB3B35ABD4B44A268384A582 /* tidy-int.h */; };
+		A5C8E3BDA7774D218D37811B /* libPods-CTidy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 091D1ED4BBFF417186155E46 /* libPods-CTidy.a */; };
+		A831B8E74D754883B906B796 /* config.h in Headers */ = {isa = PBXBuildFile; fileRef = D0F583ED8AA54FC6B01FB833 /* config.h */; };
+		A8335B665A654045AF9BA784 /* attrdict.h in Headers */ = {isa = PBXBuildFile; fileRef = 12D3D8E1470C430DB582D8D0 /* attrdict.h */; };
+		A8BB476B02B44080982E5EDD /* streamio.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C35A42B885248E7A2A81D88 /* streamio.h */; };
+		A9F585FD9DB6401F83B1E252 /* charsets.h in Headers */ = {isa = PBXBuildFile; fileRef = 46B4715AEAB24041BF3FD628 /* charsets.h */; };
+		AD60731FBCA5474E97BCFFA4 /* tmbstr.c in Sources */ = {isa = PBXBuildFile; fileRef = 437B6A72361D4CFD85D4812D /* tmbstr.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		ADFD130284524B219D4A51C8 /* MWFeedInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = C5A8EB0EC7CB47F696F3B17A /* MWFeedInfo.m */; };
+		B0A3FB5C028D48FE8F5FB417 /* fileio.h in Headers */ = {isa = PBXBuildFile; fileRef = A026268062CB476D930F5F91 /* fileio.h */; };
+		B372D4936FB14EE89EE4EE21 /* NSDate+InternetDateTime.h in Headers */ = {isa = PBXBuildFile; fileRef = 47ADC30EE9FE4976B8A81C90 /* NSDate+InternetDateTime.h */; };
+		B64C5C75E65B4C0480FFED11 /* CTidy.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D4A678973D42328060CD9C /* CTidy.m */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		B7AA7C42469942B5ABFE4423 /* utf8.c in Sources */ = {isa = PBXBuildFile; fileRef = 14BAA1CB55894096A81166E9 /* utf8.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		B9A93B1B9C1E462A88536847 /* lexer.h in Headers */ = {isa = PBXBuildFile; fileRef = AF17D2497560454C86DEBF12 /* lexer.h */; };
+		BCDB20C17678439CB8231852 /* utf8.h in Headers */ = {isa = PBXBuildFile; fileRef = 94EBFD99F62D48C4B17C5E7E /* utf8.h */; };
+		C12AF8A5AA8D477E8B20A834 /* pprint.h in Headers */ = {isa = PBXBuildFile; fileRef = FCA8665186664466971A13E3 /* pprint.h */; };
+		CA345A3F4F2B4890BDD2DEE7 /* tidylib.c in Sources */ = {isa = PBXBuildFile; fileRef = 9C34E928AAB4406A9868FEB7 /* tidylib.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		CAE6E08418E2998200135F4B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CAE6E08318E2998200135F4B /* Foundation.framework */; };
+		CAE6E08518E299A200135F4B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CAE6E08318E2998200135F4B /* Foundation.framework */; };
+		CAE6E08618E299AF00135F4B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CAE6E08318E2998200135F4B /* Foundation.framework */; };
+		CE6182F780014F0C98CB5109 /* attrask.c in Sources */ = {isa = PBXBuildFile; fileRef = F5A979374B1240B4B0CE6621 /* attrask.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		D5336C35EFEB4F3DA74968A2 /* clean.h in Headers */ = {isa = PBXBuildFile; fileRef = B7ABC2708DB74F2C81186F76 /* clean.h */; };
+		D6CCC4442B4C40C0B37B107E /* version.h in Headers */ = {isa = PBXBuildFile; fileRef = 5D67384657844AF281580863 /* version.h */; };
+		D7EA6C049D814E6F96C6E578 /* message.h in Headers */ = {isa = PBXBuildFile; fileRef = B465443A924C4F548B97F3E6 /* message.h */; };
+		DEA0147143F745DAAE252BEF /* tidy.h in Headers */ = {isa = PBXBuildFile; fileRef = 372632EEF25C4D30B99C8475 /* tidy.h */; };
+		E471AB894856474FBCFF79A5 /* tags.c in Sources */ = {isa = PBXBuildFile; fileRef = 7BDAD6D9F2B2494B8ED4C445 /* tags.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		EA068F5D8D574B2F8B98783D /* pprint.c in Sources */ = {isa = PBXBuildFile; fileRef = DDE9AAA46724466BA7AE0F36 /* pprint.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		EF1BFAF8A06443DCA25553FD /* Pods-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 303A5CBC1BB949A2BAC48862 /* Pods-dummy.m */; };
+		FB58E8A442BD4ADB92A813DC /* attrget.c in Sources */ = {isa = PBXBuildFile; fileRef = B4B4017C0B724169B8DA81A2 /* attrget.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		FB5EF498131949A98E09C490 /* fileio.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BF5000F49DC4C4C8D0FC1A1 /* fileio.c */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		FEE8F55CEF8447448BD8779B /* mappedio.h in Headers */ = {isa = PBXBuildFile; fileRef = B5B80EE309094097878AF713 /* mappedio.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E0434A01EA114D7BB32F4EB9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 00E31F9EA1874C289060F6C5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1130F258429E416D8A97494F;
+			remoteInfo = "Pods-CTidy";
+		};
+		F309A68AA9CD4D5F8433249A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 00E31F9EA1874C289060F6C5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1130F258429E416D8A97494F;
+			remoteInfo = "Pods-CTidy";
+		};
+		F957E197851D4CA2B27EAAC2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 00E31F9EA1874C289060F6C5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D4635DD9B5884E2AB8758AB0;
+			remoteInfo = "Pods-CXFeedParser";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		01DB5AA9E7AD4F32B885A9E7 /* tags.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = tags.h; path = libtidy/src/tags.h; sourceTree = "<group>"; };
+		091D1ED4BBFF417186155E46 /* libPods-CTidy.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CTidy.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F223ED8E4CB41F9B04D5535 /* forward.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = forward.h; path = libtidy/src/forward.h; sourceTree = "<group>"; };
+		12D3D8E1470C430DB582D8D0 /* attrdict.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = attrdict.h; path = libtidy/src/attrdict.h; sourceTree = "<group>"; };
+		138CE10E3FE74BB1A8DB535C /* attrdict.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = attrdict.c; path = libtidy/src/attrdict.c; sourceTree = "<group>"; };
+		14BAA1CB55894096A81166E9 /* utf8.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = utf8.c; path = libtidy/src/utf8.c; sourceTree = "<group>"; };
+		1ABF8217A5D54F42AAB19622 /* CTidy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CTidy.h; path = CTidy/CTidy.h; sourceTree = "<group>"; };
+		1B7F3E53996844C2B7F8F94E /* Pods-CXFeedParser-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CXFeedParser-dummy.m"; sourceTree = "<group>"; };
+		1B989F3839B1445BA16D950E /* Pods-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-acknowledgements.markdown"; sourceTree = "<group>"; };
+		1F872999B3E641738BF9F074 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		2BF5000F49DC4C4C8D0FC1A1 /* fileio.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = fileio.c; path = libtidy/src/fileio.c; sourceTree = "<group>"; };
+		2D5117BEFFD64473AE22B9AB /* MWFeedInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MWFeedInfo.h; path = Classes/MWFeedInfo.h; sourceTree = "<group>"; };
+		2F9007513D3A461FB79BC799 /* access.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = access.c; path = libtidy/src/access.c; sourceTree = "<group>"; };
+		303A5CBC1BB949A2BAC48862 /* Pods-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-dummy.m"; sourceTree = "<group>"; };
+		340DBB6E6C48441E929BE92D /* MWFeedItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MWFeedItem.m; path = Classes/MWFeedItem.m; sourceTree = "<group>"; };
+		35C17D65AAAD4FD191D48856 /* tagask.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = tagask.c; path = libtidy/src/tagask.c; sourceTree = "<group>"; };
+		3619A7CFDDCE49FF9B5C7EC3 /* parser.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = parser.c; path = libtidy/src/parser.c; sourceTree = "<group>"; };
+		36A533A7B9FD4A3A90A58B4F /* config.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = config.c; path = libtidy/src/config.c; sourceTree = "<group>"; };
+		372632EEF25C4D30B99C8475 /* tidy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = tidy.h; path = libtidy/include/tidy.h; sourceTree = "<group>"; };
+		3DA9FB33C8694784A76DD105 /* charsets.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = charsets.c; path = libtidy/src/charsets.c; sourceTree = "<group>"; };
+		3DC470F9AA294E8EBF7CAE7C /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Pods.xcconfig; sourceTree = "<group>"; };
+		3EE342B10ACE4BEA8B78D33D /* alloc.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = alloc.c; path = libtidy/src/alloc.c; sourceTree = "<group>"; };
+		437B6A72361D4CFD85D4812D /* tmbstr.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = tmbstr.c; path = libtidy/src/tmbstr.c; sourceTree = "<group>"; };
+		46B4715AEAB24041BF3FD628 /* charsets.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = charsets.h; path = libtidy/src/charsets.h; sourceTree = "<group>"; };
+		47ADC30EE9FE4976B8A81C90 /* NSDate+InternetDateTime.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+InternetDateTime.h"; path = "Classes/NSDate+InternetDateTime.h"; sourceTree = "<group>"; };
+		513382DD6FC04B8A80206E84 /* win32tc.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = win32tc.c; path = libtidy/src/win32tc.c; sourceTree = "<group>"; };
+		51C5B653DC984058B6625D6E /* iconvtc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iconvtc.h; path = libtidy/src/iconvtc.h; sourceTree = "<group>"; };
+		55D1B569725646E894A85EB0 /* clean.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = clean.c; path = libtidy/src/clean.c; sourceTree = "<group>"; };
+		5C35A42B885248E7A2A81D88 /* streamio.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = streamio.h; path = libtidy/src/streamio.h; sourceTree = "<group>"; };
+		5D67384657844AF281580863 /* version.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = version.h; path = libtidy/src/version.h; sourceTree = "<group>"; };
+		60B4BE1BB993409B8171364B /* Pods-CXFeedParser-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CXFeedParser-Private.xcconfig"; sourceTree = "<group>"; };
+		6236A2CC1F6B415EB66600DA /* libPods-CXFeedParser.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CXFeedParser.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		665636FFE0FA4B81969D0898 /* lexer.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = lexer.c; path = libtidy/src/lexer.c; sourceTree = "<group>"; };
+		66AB4B936496464081AA2CBB /* Pods-CTidy-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CTidy-dummy.m"; sourceTree = "<group>"; };
+		675BF2221280431FB87A78A0 /* GTMNSString+HTML.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "GTMNSString+HTML.h"; path = "Classes/GTMNSString+HTML.h"; sourceTree = "<group>"; };
+		68D4A678973D42328060CD9C /* CTidy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CTidy.m; path = CTidy/CTidy.m; sourceTree = "<group>"; };
+		69E5081EB4F0476B93C8748F /* buffio.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = buffio.c; path = libtidy/src/buffio.c; sourceTree = "<group>"; };
+		6DCF66FF2F0F438D89C514E7 /* NSDate+InternetDateTime.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+InternetDateTime.m"; path = "Classes/NSDate+InternetDateTime.m"; sourceTree = "<group>"; };
+		70F270D6013A41678C6C5440 /* mappedio.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mappedio.c; path = libtidy/src/mappedio.c; sourceTree = "<group>"; };
+		72193CA252EF4B8B9F3CCD6C /* entities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = entities.h; path = libtidy/src/entities.h; sourceTree = "<group>"; };
+		72F97133F7AC4CB9A0290068 /* entities.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = entities.c; path = libtidy/src/entities.c; sourceTree = "<group>"; };
+		76467B936E624BECB8D6BF7D /* Pods-CTidy-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CTidy-Private.xcconfig"; sourceTree = "<group>"; };
+		79AA0789F6DB4F0E85E522AC /* istack.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = istack.c; path = libtidy/src/istack.c; sourceTree = "<group>"; };
+		7BDAD6D9F2B2494B8ED4C445 /* tags.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = tags.c; path = libtidy/src/tags.c; sourceTree = "<group>"; };
+		8892B4EBF7AF49C180AF4FC0 /* Pods-CXFeedParser.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CXFeedParser.xcconfig"; sourceTree = "<group>"; };
+		8B779B7E4AE54C38AB94FDE1 /* streamio.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = streamio.c; path = libtidy/src/streamio.c; sourceTree = "<group>"; };
+		8CB18A8940804A23A66C8407 /* NSString+HTML.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+HTML.m"; path = "Classes/NSString+HTML.m"; sourceTree = "<group>"; };
+		938AD8743249428B8678D12F /* GTMNSString+HTML.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "GTMNSString+HTML.m"; path = "Classes/GTMNSString+HTML.m"; sourceTree = "<group>"; };
+		94EBFD99F62D48C4B17C5E7E /* utf8.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = utf8.h; path = libtidy/src/utf8.h; sourceTree = "<group>"; };
+		97E6740DA37C40A7848B7C5F /* attrs.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = attrs.c; path = libtidy/src/attrs.c; sourceTree = "<group>"; };
+		9BDDF43D54584E07B0E46BD3 /* MWFeedParser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MWFeedParser.h; path = Classes/MWFeedParser.h; sourceTree = "<group>"; };
+		9C34E928AAB4406A9868FEB7 /* tidylib.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = tidylib.c; path = libtidy/src/tidylib.c; sourceTree = "<group>"; };
+		A026268062CB476D930F5F91 /* fileio.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = fileio.h; path = libtidy/src/fileio.h; sourceTree = "<group>"; };
+		A0793F8EFD8D41FDB8A21F6B /* Pods-CTidy.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CTidy.xcconfig"; sourceTree = "<group>"; };
+		A0AB27FF7E1043DF967FAB3B /* buffio.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = buffio.h; path = libtidy/include/buffio.h; sourceTree = "<group>"; };
+		A3A3B8475BF944B2A78FF924 /* attrs.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = attrs.h; path = libtidy/src/attrs.h; sourceTree = "<group>"; };
+		A752608AD13942D195E2286F /* access.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = access.h; path = libtidy/src/access.h; sourceTree = "<group>"; };
+		A8FAAF5243BD41F88375B2AA /* iconvtc.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = iconvtc.c; path = libtidy/src/iconvtc.c; sourceTree = "<group>"; };
+		AB3B35ABD4B44A268384A582 /* tidy-int.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "tidy-int.h"; path = "libtidy/src/tidy-int.h"; sourceTree = "<group>"; };
+		AF17D2497560454C86DEBF12 /* lexer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = lexer.h; path = libtidy/src/lexer.h; sourceTree = "<group>"; };
+		B465443A924C4F548B97F3E6 /* message.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = message.h; path = libtidy/src/message.h; sourceTree = "<group>"; };
+		B4B4017C0B724169B8DA81A2 /* attrget.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = attrget.c; path = libtidy/src/attrget.c; sourceTree = "<group>"; };
+		B5B80EE309094097878AF713 /* mappedio.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = mappedio.h; path = libtidy/src/mappedio.h; sourceTree = "<group>"; };
+		B7ABC2708DB74F2C81186F76 /* clean.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = clean.h; path = libtidy/src/clean.h; sourceTree = "<group>"; };
+		C5A8EB0EC7CB47F696F3B17A /* MWFeedInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MWFeedInfo.m; path = Classes/MWFeedInfo.m; sourceTree = "<group>"; };
+		C66B15C689C440B1AD3E47F6 /* Pods-CXFeedParser-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CXFeedParser-prefix.pch"; sourceTree = "<group>"; };
+		C8E7C1E92690496C84F6B48A /* MWImageParser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MWImageParser.h; path = Classes/MWImageParser.h; sourceTree = "<group>"; };
+		CAE6E08318E2998200135F4B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D0F583ED8AA54FC6B01FB833 /* config.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = config.h; path = libtidy/src/config.h; sourceTree = "<group>"; };
+		D52393573E2640D390EE0A3E /* MWFeedParser.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MWFeedParser.m; path = Classes/MWFeedParser.m; sourceTree = "<group>"; };
+		D63B43275FE14E328D07969E /* Pods-CTidy-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CTidy-prefix.pch"; sourceTree = "<group>"; };
+		D6F30EA8935340C480BBDC2F /* MWFeedParser_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MWFeedParser_Private.h; path = Classes/MWFeedParser_Private.h; sourceTree = "<group>"; };
+		D9646372CBE14BDCBB86F91D /* localize.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = localize.c; path = libtidy/src/localize.c; sourceTree = "<group>"; };
+		DD7DF5750B974E0CA36229EA /* MWFeedItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MWFeedItem.h; path = Classes/MWFeedItem.h; sourceTree = "<group>"; };
+		DDE9AAA46724466BA7AE0F36 /* pprint.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = pprint.c; path = libtidy/src/pprint.c; sourceTree = "<group>"; };
+		DFDAD9D280FD46C082172951 /* tmbstr.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = tmbstr.h; path = libtidy/src/tmbstr.h; sourceTree = "<group>"; };
+		E1F8C6B9F64D4EF7B6F08F39 /* MWImageParser.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MWImageParser.m; path = Classes/MWImageParser.m; sourceTree = "<group>"; };
+		E9A82BA4CA9A49078E7E3673 /* Pods-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-environment.h"; sourceTree = "<group>"; };
+		EEE1370B560C429EADFDC6AA /* Pods-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-acknowledgements.plist"; sourceTree = "<group>"; };
+		EF1D24BFC9754E049A3E740E /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0DD5B72BC7B4AB8AC4E8680 /* Pods-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-resources.sh"; sourceTree = "<group>"; };
+		F3710224498D4EF1A6513DE2 /* tidyenum.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = tidyenum.h; path = libtidy/include/tidyenum.h; sourceTree = "<group>"; };
+		F3E86F2F1DF049FE89C8F98C /* NSString+HTML.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+HTML.h"; path = "Classes/NSString+HTML.h"; sourceTree = "<group>"; };
+		F58AA3160C7341F9B9532ABD /* parser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = parser.h; path = libtidy/src/parser.h; sourceTree = "<group>"; };
+		F5A979374B1240B4B0CE6621 /* attrask.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = attrask.c; path = libtidy/src/attrask.c; sourceTree = "<group>"; };
+		F85FFB6274C24026B6ADB693 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FCA8665186664466971A13E3 /* pprint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = pprint.h; path = libtidy/src/pprint.h; sourceTree = "<group>"; };
+		FF13565B4A204D7FB7ADCB05 /* win32tc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = win32tc.h; path = libtidy/src/win32tc.h; sourceTree = "<group>"; };
+		FFF5BDEDA5DE48F8B767554C /* platform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = platform.h; path = libtidy/include/platform.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3BC68493A52B4750A99EC46A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CAE6E08518E299A200135F4B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5962EA63E691463294A88504 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CAE6E08618E299AF00135F4B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A9DB2E3EF18D4514A1F1C3F5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CAE6E08418E2998200135F4B /* Foundation.framework in Frameworks */,
+				A5C8E3BDA7774D218D37811B /* libPods-CTidy.a in Frameworks */,
+				383366565AF741E6BA9BD88A /* libPods-CXFeedParser.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		077B025CE5EE4D9E818D4A70 /* CXFeedParser */ = {
+			isa = PBXGroup;
+			children = (
+				8D0F091797B347FDA7A4EDFA /* Feed */,
+				5E2A4421F16C401BB39DC359 /* NSDate+InternetDateTime */,
+				B13AE79E4BCA46DCB66FACB8 /* NSString+HTML */,
+				592B4A562C1E453EB8E2AD20 /* Support Files */,
+			);
+			path = CXFeedParser;
+			sourceTree = "<group>";
+		};
+		1330E7E6D712436B9EF0B452 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B2536517F5C14F08857FC989 /* CTidy */,
+				077B025CE5EE4D9E818D4A70 /* CXFeedParser */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		1ED1DB697AC44BF780F93EFA /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3DC470F9AA294E8EBF7CAE7C /* Pods.xcconfig */,
+				1B989F3839B1445BA16D950E /* Pods-acknowledgements.markdown */,
+				EEE1370B560C429EADFDC6AA /* Pods-acknowledgements.plist */,
+				303A5CBC1BB949A2BAC48862 /* Pods-dummy.m */,
+				E9A82BA4CA9A49078E7E3673 /* Pods-environment.h */,
+				F0DD5B72BC7B4AB8AC4E8680 /* Pods-resources.sh */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		3CB973D52AAB466384FED519 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				1F872999B3E641738BF9F074 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		3EE890F2563F4272871B9C39 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A0793F8EFD8D41FDB8A21F6B /* Pods-CTidy.xcconfig */,
+				76467B936E624BECB8D6BF7D /* Pods-CTidy-Private.xcconfig */,
+				66AB4B936496464081AA2CBB /* Pods-CTidy-dummy.m */,
+				D63B43275FE14E328D07969E /* Pods-CTidy-prefix.pch */,
+			);
+			name = "Support Files";
+			sourceTree = SOURCE_ROOT;
+		};
+		592B4A562C1E453EB8E2AD20 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				8892B4EBF7AF49C180AF4FC0 /* Pods-CXFeedParser.xcconfig */,
+				60B4BE1BB993409B8171364B /* Pods-CXFeedParser-Private.xcconfig */,
+				1B7F3E53996844C2B7F8F94E /* Pods-CXFeedParser-dummy.m */,
+				C66B15C689C440B1AD3E47F6 /* Pods-CXFeedParser-prefix.pch */,
+			);
+			name = "Support Files";
+			sourceTree = SOURCE_ROOT;
+		};
+		5E2A4421F16C401BB39DC359 /* NSDate+InternetDateTime */ = {
+			isa = PBXGroup;
+			children = (
+				47ADC30EE9FE4976B8A81C90 /* NSDate+InternetDateTime.h */,
+				6DCF66FF2F0F438D89C514E7 /* NSDate+InternetDateTime.m */,
+			);
+			name = "NSDate+InternetDateTime";
+			sourceTree = "<group>";
+		};
+		62429CFAA3CF462F9607BCE9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CAE6E08318E2998200135F4B /* Foundation.framework */,
+				3CB973D52AAB466384FED519 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8D0F091797B347FDA7A4EDFA /* Feed */ = {
+			isa = PBXGroup;
+			children = (
+				2D5117BEFFD64473AE22B9AB /* MWFeedInfo.h */,
+				C5A8EB0EC7CB47F696F3B17A /* MWFeedInfo.m */,
+				DD7DF5750B974E0CA36229EA /* MWFeedItem.h */,
+				340DBB6E6C48441E929BE92D /* MWFeedItem.m */,
+				9BDDF43D54584E07B0E46BD3 /* MWFeedParser.h */,
+				D52393573E2640D390EE0A3E /* MWFeedParser.m */,
+				D6F30EA8935340C480BBDC2F /* MWFeedParser_Private.h */,
+				C8E7C1E92690496C84F6B48A /* MWImageParser.h */,
+				E1F8C6B9F64D4EF7B6F08F39 /* MWImageParser.m */,
+			);
+			name = Feed;
+			sourceTree = "<group>";
+		};
+		B0FE076362304D7D9BD68E05 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1ED1DB697AC44BF780F93EFA /* Pods */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		B13AE79E4BCA46DCB66FACB8 /* NSString+HTML */ = {
+			isa = PBXGroup;
+			children = (
+				675BF2221280431FB87A78A0 /* GTMNSString+HTML.h */,
+				938AD8743249428B8678D12F /* GTMNSString+HTML.m */,
+				F3E86F2F1DF049FE89C8F98C /* NSString+HTML.h */,
+				8CB18A8940804A23A66C8407 /* NSString+HTML.m */,
+			);
+			name = "NSString+HTML";
+			sourceTree = "<group>";
+		};
+		B2536517F5C14F08857FC989 /* CTidy */ = {
+			isa = PBXGroup;
+			children = (
+				1ABF8217A5D54F42AAB19622 /* CTidy.h */,
+				68D4A678973D42328060CD9C /* CTidy.m */,
+				2F9007513D3A461FB79BC799 /* access.c */,
+				A752608AD13942D195E2286F /* access.h */,
+				3EE342B10ACE4BEA8B78D33D /* alloc.c */,
+				F5A979374B1240B4B0CE6621 /* attrask.c */,
+				138CE10E3FE74BB1A8DB535C /* attrdict.c */,
+				12D3D8E1470C430DB582D8D0 /* attrdict.h */,
+				B4B4017C0B724169B8DA81A2 /* attrget.c */,
+				97E6740DA37C40A7848B7C5F /* attrs.c */,
+				A3A3B8475BF944B2A78FF924 /* attrs.h */,
+				69E5081EB4F0476B93C8748F /* buffio.c */,
+				A0AB27FF7E1043DF967FAB3B /* buffio.h */,
+				3DA9FB33C8694784A76DD105 /* charsets.c */,
+				46B4715AEAB24041BF3FD628 /* charsets.h */,
+				55D1B569725646E894A85EB0 /* clean.c */,
+				B7ABC2708DB74F2C81186F76 /* clean.h */,
+				36A533A7B9FD4A3A90A58B4F /* config.c */,
+				D0F583ED8AA54FC6B01FB833 /* config.h */,
+				72F97133F7AC4CB9A0290068 /* entities.c */,
+				72193CA252EF4B8B9F3CCD6C /* entities.h */,
+				2BF5000F49DC4C4C8D0FC1A1 /* fileio.c */,
+				A026268062CB476D930F5F91 /* fileio.h */,
+				0F223ED8E4CB41F9B04D5535 /* forward.h */,
+				A8FAAF5243BD41F88375B2AA /* iconvtc.c */,
+				51C5B653DC984058B6625D6E /* iconvtc.h */,
+				79AA0789F6DB4F0E85E522AC /* istack.c */,
+				665636FFE0FA4B81969D0898 /* lexer.c */,
+				AF17D2497560454C86DEBF12 /* lexer.h */,
+				D9646372CBE14BDCBB86F91D /* localize.c */,
+				70F270D6013A41678C6C5440 /* mappedio.c */,
+				B5B80EE309094097878AF713 /* mappedio.h */,
+				B465443A924C4F548B97F3E6 /* message.h */,
+				3619A7CFDDCE49FF9B5C7EC3 /* parser.c */,
+				F58AA3160C7341F9B9532ABD /* parser.h */,
+				FFF5BDEDA5DE48F8B767554C /* platform.h */,
+				DDE9AAA46724466BA7AE0F36 /* pprint.c */,
+				FCA8665186664466971A13E3 /* pprint.h */,
+				8B779B7E4AE54C38AB94FDE1 /* streamio.c */,
+				5C35A42B885248E7A2A81D88 /* streamio.h */,
+				35C17D65AAAD4FD191D48856 /* tagask.c */,
+				7BDAD6D9F2B2494B8ED4C445 /* tags.c */,
+				01DB5AA9E7AD4F32B885A9E7 /* tags.h */,
+				372632EEF25C4D30B99C8475 /* tidy.h */,
+				AB3B35ABD4B44A268384A582 /* tidy-int.h */,
+				F3710224498D4EF1A6513DE2 /* tidyenum.h */,
+				9C34E928AAB4406A9868FEB7 /* tidylib.c */,
+				437B6A72361D4CFD85D4812D /* tmbstr.c */,
+				DFDAD9D280FD46C082172951 /* tmbstr.h */,
+				14BAA1CB55894096A81166E9 /* utf8.c */,
+				94EBFD99F62D48C4B17C5E7E /* utf8.h */,
+				5D67384657844AF281580863 /* version.h */,
+				513382DD6FC04B8A80206E84 /* win32tc.c */,
+				FF13565B4A204D7FB7ADCB05 /* win32tc.h */,
+				3EE890F2563F4272871B9C39 /* Support Files */,
+			);
+			path = CTidy;
+			sourceTree = "<group>";
+		};
+		C76548B3D32147A9BA32402C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EF1D24BFC9754E049A3E740E /* libPods.a */,
+				091D1ED4BBFF417186155E46 /* libPods-CTidy.a */,
+				6236A2CC1F6B415EB66600DA /* libPods-CXFeedParser.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DBD0DC356BB84A5CB35E4632 = {
+			isa = PBXGroup;
+			children = (
+				F85FFB6274C24026B6ADB693 /* Podfile */,
+				62429CFAA3CF462F9607BCE9 /* Frameworks */,
+				1330E7E6D712436B9EF0B452 /* Pods */,
+				C76548B3D32147A9BA32402C /* Products */,
+				B0FE076362304D7D9BD68E05 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		A3818472BB0C47FB80FAE6B9 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C2BC62686D341EBB38E8D97 /* CTidy.h in Headers */,
+				3972C1DEAF2E40EEB78995D7 /* access.h in Headers */,
+				A8335B665A654045AF9BA784 /* attrdict.h in Headers */,
+				8B5A0F2BAE6C460CA3C701B3 /* attrs.h in Headers */,
+				3973ACEF3B9F45A299B28F4F /* buffio.h in Headers */,
+				A9F585FD9DB6401F83B1E252 /* charsets.h in Headers */,
+				D5336C35EFEB4F3DA74968A2 /* clean.h in Headers */,
+				A831B8E74D754883B906B796 /* config.h in Headers */,
+				7A816BB7C2AB4407AD51DD57 /* entities.h in Headers */,
+				B0A3FB5C028D48FE8F5FB417 /* fileio.h in Headers */,
+				5FC9672AA3134EA0B7162920 /* forward.h in Headers */,
+				4973CF70294F4B819A8EDAAC /* iconvtc.h in Headers */,
+				B9A93B1B9C1E462A88536847 /* lexer.h in Headers */,
+				FEE8F55CEF8447448BD8779B /* mappedio.h in Headers */,
+				D7EA6C049D814E6F96C6E578 /* message.h in Headers */,
+				3DCF7275526A4CDE91C71056 /* parser.h in Headers */,
+				85D04103CD3C423C8012A304 /* platform.h in Headers */,
+				C12AF8A5AA8D477E8B20A834 /* pprint.h in Headers */,
+				A8BB476B02B44080982E5EDD /* streamio.h in Headers */,
+				98B3F820DA3646B0806E26F1 /* tags.h in Headers */,
+				A391E37559584A5CB383D3A9 /* tidy-int.h in Headers */,
+				DEA0147143F745DAAE252BEF /* tidy.h in Headers */,
+				85273896709F43A2B3D36976 /* tidyenum.h in Headers */,
+				64DED84C8FC449D2AEB7F02A /* tmbstr.h in Headers */,
+				BCDB20C17678439CB8231852 /* utf8.h in Headers */,
+				D6CCC4442B4C40C0B37B107E /* version.h in Headers */,
+				302E2AB14F444C4ABD86002C /* win32tc.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE616DADBBD0455D8C7DE868 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E601F14BD4F40758C2A04C6 /* GTMNSString+HTML.h in Headers */,
+				1C0E4E25136940489EC66B31 /* MWFeedInfo.h in Headers */,
+				1B716EF7EC84472E96590061 /* MWFeedItem.h in Headers */,
+				7A131BF5D3B7441D975B287B /* MWFeedParser.h in Headers */,
+				290B60E3AB0B4FDAB5835068 /* MWFeedParser_Private.h in Headers */,
+				15280A02D0A6465A9713AD7C /* MWImageParser.h in Headers */,
+				B372D4936FB14EE89EE4EE21 /* NSDate+InternetDateTime.h in Headers */,
+				A25449900D524F93BC6635AB /* NSString+HTML.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		1130F258429E416D8A97494F /* Pods-CTidy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 004310FDE5464F62AD5E931B /* Build configuration list for PBXNativeTarget "Pods-CTidy" */;
+			buildPhases = (
+				48FD9749B8434E1580B188AB /* Sources */,
+				3BC68493A52B4750A99EC46A /* Frameworks */,
+				A3818472BB0C47FB80FAE6B9 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-CTidy";
+			productName = "Pods-CTidy";
+			productReference = 091D1ED4BBFF417186155E46 /* libPods-CTidy.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		D4635DD9B5884E2AB8758AB0 /* Pods-CXFeedParser */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 074DDE682091463B85585D58 /* Build configuration list for PBXNativeTarget "Pods-CXFeedParser" */;
+			buildPhases = (
+				A6615DC70BF44A839653AB5D /* Sources */,
+				5962EA63E691463294A88504 /* Frameworks */,
+				DE616DADBBD0455D8C7DE868 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D8C1D2C107D84B39A6987429 /* PBXTargetDependency */,
+			);
+			name = "Pods-CXFeedParser";
+			productName = "Pods-CXFeedParser";
+			productReference = 6236A2CC1F6B415EB66600DA /* libPods-CXFeedParser.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		E8E5E431F50742FAA46F5C83 /* Pods */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EEB43953A40B4E3F9A5D25C0 /* Build configuration list for PBXNativeTarget "Pods" */;
+			buildPhases = (
+				D69BBDA70D1C4D3EBBCB5B5E /* Sources */,
+				A9DB2E3EF18D4514A1F1C3F5 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F2C18089FFB74B62B5D55939 /* PBXTargetDependency */,
+				A8D4BDC1AE5E4AB7A7FC3621 /* PBXTargetDependency */,
+			);
+			name = Pods;
+			productName = Pods;
+			productReference = EF1D24BFC9754E049A3E740E /* libPods.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		00E31F9EA1874C289060F6C5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+			};
+			buildConfigurationList = 365536C86EBF4661889789E1 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DBD0DC356BB84A5CB35E4632;
+			productRefGroup = C76548B3D32147A9BA32402C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E8E5E431F50742FAA46F5C83 /* Pods */,
+				1130F258429E416D8A97494F /* Pods-CTidy */,
+				D4635DD9B5884E2AB8758AB0 /* Pods-CXFeedParser */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		48FD9749B8434E1580B188AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B64C5C75E65B4C0480FFED11 /* CTidy.m in Sources */,
+				66E554632C98491EA763E1FF /* Pods-CTidy-dummy.m in Sources */,
+				1FB0C6B2D62A45A3968260DA /* access.c in Sources */,
+				447CDBBEF3B24A7AA36B832C /* alloc.c in Sources */,
+				CE6182F780014F0C98CB5109 /* attrask.c in Sources */,
+				6E16CD14BDAD411EBD3CECFD /* attrdict.c in Sources */,
+				FB58E8A442BD4ADB92A813DC /* attrget.c in Sources */,
+				01656476F088484783048E6C /* attrs.c in Sources */,
+				1B1C72EF8B104C9181D7ECB6 /* buffio.c in Sources */,
+				4C159EA4E7E24F0E941CE4E2 /* charsets.c in Sources */,
+				93F8660CE4E643948CBFF6D9 /* clean.c in Sources */,
+				0EFA09F560A6477297660C8C /* config.c in Sources */,
+				83DC5A262E3A4BE28DFCE9C0 /* entities.c in Sources */,
+				FB5EF498131949A98E09C490 /* fileio.c in Sources */,
+				81C409C3F121435C8BE74A03 /* iconvtc.c in Sources */,
+				770FBE24208E4CA896DDD5A0 /* istack.c in Sources */,
+				58F4C95BFF4F423A985463AC /* lexer.c in Sources */,
+				44C4E1E8A3184206B358E06D /* localize.c in Sources */,
+				467B62D9ECAC45CFBA90479E /* mappedio.c in Sources */,
+				44203EA167F74CF298721397 /* parser.c in Sources */,
+				EA068F5D8D574B2F8B98783D /* pprint.c in Sources */,
+				2A18E95137294CD0868B4FD3 /* streamio.c in Sources */,
+				56FCC1301A4F4EC68FFDFAB0 /* tagask.c in Sources */,
+				E471AB894856474FBCFF79A5 /* tags.c in Sources */,
+				CA345A3F4F2B4890BDD2DEE7 /* tidylib.c in Sources */,
+				AD60731FBCA5474E97BCFFA4 /* tmbstr.c in Sources */,
+				B7AA7C42469942B5ABFE4423 /* utf8.c in Sources */,
+				7F9834F6625D49BA95CFFF4C /* win32tc.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A6615DC70BF44A839653AB5D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91B97AC35D16406FB4BF7274 /* GTMNSString+HTML.m in Sources */,
+				ADFD130284524B219D4A51C8 /* MWFeedInfo.m in Sources */,
+				0341ED1AC7914D528B64357C /* MWFeedItem.m in Sources */,
+				8A73B38195474639A0F35252 /* MWFeedParser.m in Sources */,
+				1FE6CBCB85EE46F9BF067616 /* MWImageParser.m in Sources */,
+				2FFA408C7E6C4991A89C018E /* NSDate+InternetDateTime.m in Sources */,
+				109C51CEB3194CBAA9063562 /* NSString+HTML.m in Sources */,
+				2F01E55D494745F4BAB2F729 /* Pods-CXFeedParser-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D69BBDA70D1C4D3EBBCB5B5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF1BFAF8A06443DCA25553FD /* Pods-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A8D4BDC1AE5E4AB7A7FC3621 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D4635DD9B5884E2AB8758AB0 /* Pods-CXFeedParser */;
+			targetProxy = F957E197851D4CA2B27EAAC2 /* PBXContainerItemProxy */;
+		};
+		D8C1D2C107D84B39A6987429 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1130F258429E416D8A97494F /* Pods-CTidy */;
+			targetProxy = F309A68AA9CD4D5F8433249A /* PBXContainerItemProxy */;
+		};
+		F2C18089FFB74B62B5D55939 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1130F258429E416D8A97494F /* Pods-CTidy */;
+			targetProxy = E0434A01EA114D7BB32F4EB9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		345EB518A6444047B7D60E0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 60B4BE1BB993409B8171364B /* Pods-CXFeedParser-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Pods-CXFeedParser-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		376B4A17691B4602A1BF30D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 76467B936E624BECB8D6BF7D /* Pods-CTidy-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Pods-CTidy-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		A0FCAB3ECC0D4FADBFF9BC15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 76467B936E624BECB8D6BF7D /* Pods-CTidy-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Pods-CTidy-prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AA3D6B4735234F9C8BEE2736 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 60B4BE1BB993409B8171364B /* Pods-CXFeedParser-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Pods-CXFeedParser-prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D03729EB83BE4710A2B9A657 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+			};
+			name = Debug;
+		};
+		DE56EA8339334A5D9C33625C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3DC470F9AA294E8EBF7CAE7C /* Pods.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		E90A145750C94289A6797D1A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7;
+				STRIP_INSTALLED_PRODUCT = NO;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ECDD09815A2A456CB2F21D5F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3DC470F9AA294E8EBF7CAE7C /* Pods.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		004310FDE5464F62AD5E931B /* Build configuration list for PBXNativeTarget "Pods-CTidy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				376B4A17691B4602A1BF30D4 /* Debug */,
+				A0FCAB3ECC0D4FADBFF9BC15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		074DDE682091463B85585D58 /* Build configuration list for PBXNativeTarget "Pods-CXFeedParser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				345EB518A6444047B7D60E0B /* Debug */,
+				AA3D6B4735234F9C8BEE2736 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		365536C86EBF4661889789E1 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D03729EB83BE4710A2B9A657 /* Debug */,
+				E90A145750C94289A6797D1A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EEB43953A40B4E3F9A5D25C0 /* Build configuration list for PBXNativeTarget "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE56EA8339334A5D9C33625C /* Debug */,
+				ECDD09815A2A456CB2F21D5F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 00E31F9EA1874C289060F6C5 /* Project object */;
+}

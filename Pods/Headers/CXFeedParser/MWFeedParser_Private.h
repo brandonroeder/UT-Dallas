@@ -1,0 +1,1 @@
+../../CXFeedParser/Classes/MWFeedParser_Private.h

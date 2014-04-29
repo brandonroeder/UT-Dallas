@@ -1,0 +1,7 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+GCC_WARN_64_TO_32_BIT_CONVERSION = NO
+GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = NO
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/CTidy" "${PODS_ROOT}/Headers/CXFeedParser"
+OTHER_CFLAGS = $(inherited) "-isystem${PODS_ROOT}/Headers" "-isystem${PODS_ROOT}/Headers/CTidy" "-isystem${PODS_ROOT}/Headers/CXFeedParser"
+OTHER_LDFLAGS = -ObjC -framework Foundation
+PODS_ROOT = ${SRCROOT}/Pods
