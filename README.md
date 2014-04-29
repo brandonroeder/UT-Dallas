@@ -6,7 +6,4 @@ It doesn't have much use at the moment, as I can't access some of the things tha
 
 It also uses a bunch of the UTD graphics which I don't think I am allowed to use, so I couldn't put this in the app store without the school's permission.
 
-![Alt text](/Screenshots/main.png/ "Puppies") ![Alt text](/Screenshots/menu.png/ "Puppies")
-![Alt text](/Screenshots/mapview.png/ "Puppies")
-![Alt text](/Screenshots/sportsview.png/ "Puppies")
-
+![Alt text](/Screenshots/screenshot.png/ "Puppies")
