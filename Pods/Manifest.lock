@@ -1,21 +1,18 @@
 PODS:
   - CTidy (0.3.1)
-  - CXFeedParser (0.1.2):
+  - CXFeedParser (0.2.0):
     - CXFeedParser/Feed
-    - CXFeedParser/NSDate+InternetDateTime
-    - CXFeedParser/NSString+HTML
-    - CXFeedParser/NSString+XMLEntities
-  - CXFeedParser/Feed (0.1.2):
+  - CXFeedParser/Feed (0.2.0):
     - CTidy (~> 0.3.1)
-  - CXFeedParser/NSDate+InternetDateTime (0.1.2)
-  - CXFeedParser/NSString+HTML (0.1.2)
-  - CXFeedParser/NSString+XMLEntities (0.1.2)
+  - Google-Maps-iOS-SDK (1.7.2)
 
 DEPENDENCIES:
   - CXFeedParser
+  - Google-Maps-iOS-SDK
 
 SPEC CHECKSUMS:
   CTidy: a8ebe9201cdb4269fa8e7ed7f32d34856db62630
-  CXFeedParser: fe88eb62a394ce822a3f59273d80c7d36e1cf119
+  CXFeedParser: 823ce4fffe412bd85998a9e3b0f6740e813ec3dd
+  Google-Maps-iOS-SDK: 14de93ec6d63ac83655a5029e3e7788c5ba70900
 
-COCOAPODS: 0.29.0
+COCOAPODS: 0.32.1

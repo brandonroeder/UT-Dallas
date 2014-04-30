@@ -1,5 +1,5 @@
 //
-//  DetailTableViewController.m
+//  DetailViewController.m
 //  
 //
 //  Created by Brandon Roeder on 3/25/14.
@@ -16,7 +16,7 @@ typedef enum { SectionHeaderTitle, SectionHeaderURL,} HeaderRows;
 typedef enum { SectionDetailSummary } DetailRows;
 
 
-@implementation DetailTableViewController
+@implementation DetailViewController
 @synthesize item, summaryString;
 
 #pragma mark -
@@ -46,6 +46,9 @@ typedef enum { SectionDetailSummary } DetailRows;
 	} else {
 		self.summaryString = @"[No Summary]";
 	}
+    
+    
+                    
 }
 
 
@@ -119,10 +122,12 @@ typedef enum { SectionDetailSummary } DetailRows;
 				break;
 				
 			}
+             
+                
             case SectionImage:
             {
                 
-                
+             
                 NSData *data = [NSData dataWithContentsOfURL : [NSURL URLWithString:[item.images objectAtIndex:indexPath.row]]];
                 
 				// Summary
@@ -132,11 +137,12 @@ typedef enum { SectionDetailSummary } DetailRows;
                 myImageView.image=[UIImage imageWithData: data];
                 myImageView.clipsToBounds;
                 [cell addSubview:myImageView];
-
+                
+            
+            }
 
                 break;
-                
-            }
+           
 
 			case SectionDetail:
             {

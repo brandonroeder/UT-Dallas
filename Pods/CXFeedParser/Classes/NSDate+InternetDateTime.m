@@ -32,12 +32,23 @@ static NSDateFormatter *_internetDateTimeFormatter = nil;
 // Get a date from a string - hint can be used to speed up
 + (NSDate *)dateFromInternetDateTimeString:(NSString *)dateString formatHint:(DateFormatHint)hint {
     [dateString retain]; // Keep dateString around a while (for thread-safety)
-	NSDate *date = nil;
+    __block NSDate *date = nil;
     if (dateString) {
         if (hint != DateFormatHintRFC3339) {
             // Try RFC822 first
             date = [NSDate dateFromRFC822String:dateString];
             if (!date) date = [NSDate dateFromRFC3339String:dateString];
+            // Non-standard date found, detect via NSDataDetector
+            if (!date) {
+                NSDataDetector *detector = [NSDataDetector dataDetectorWithTypes:NSTextCheckingAllTypes error:nil];
+                [detector enumerateMatchesInString:dateString
+                                           options:kNilOptions
+                                             range:NSMakeRange(0, [dateString length])
+                                        usingBlock:^(NSTextCheckingResult *result, NSMatchingFlags flags, BOOL *stop)
+                {
+                    date = [result.date copy];
+                }];
+            }
         } else {
             // Try RFC3339 first
             date = [NSDate dateFromRFC3339String:dateString];
@@ -75,6 +86,10 @@ static NSDateFormatter *_internetDateTimeFormatter = nil;
                     [dateFormatter setDateFormat:@"EEE, d MMM yyyy HH:mm"]; 
                     date = [dateFormatter dateFromString:RFC822String];
                 }
+                if (!date) { // Sun, 19 May 2002
+                    [dateFormatter setDateFormat:@"EEE, d MMM yyyy"];
+                    date = [dateFormatter dateFromString:RFC822String];
+                }
             } else {
                 if (!date) { // 19 May 2002 15:21:36 GMT
                     [dateFormatter setDateFormat:@"d MMM yyyy HH:mm:ss zzz"]; 
@@ -90,6 +105,10 @@ static NSDateFormatter *_internetDateTimeFormatter = nil;
                 }
                 if (!date) { // 19 May 2002 15:21
                     [dateFormatter setDateFormat:@"d MMM yyyy HH:mm"]; 
+                    date = [dateFormatter dateFromString:RFC822String];
+                }
+                if (!date) { // 19 May 2002
+                    [dateFormatter setDateFormat:@"d MMM yyyy"];
                     date = [dateFormatter dateFromString:RFC822String];
                 }
             }

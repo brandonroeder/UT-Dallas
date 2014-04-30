@@ -161,7 +161,7 @@
 {
     
 	// Show detail
-	DetailTableViewController *detail = [[DetailTableViewController alloc] initWithStyle:UITableViewStyleGrouped];
+	DetailViewController *detail = [[DetailViewController alloc] initWithStyle:UITableViewStyleGrouped];
 	detail.item = (MWFeedItem *)[itemsToDisplay objectAtIndex:indexPath.row];
 	[self.navigationController pushViewController:detail animated:YES];
 	

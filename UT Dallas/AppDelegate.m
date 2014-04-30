@@ -13,7 +13,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    [GMSServices provideAPIKey:@"AIzaSyAEaBe3T9M4bs6zSJw9WJ-2iF0g62sBDRI"];
+
 
     // Change the background color of navigation bar
     [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithRed:199.0/255.0 green:91.0/255.0 blue:18.0/255.0 alpha:1]];

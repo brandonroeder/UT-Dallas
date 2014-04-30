@@ -1,0 +1,1 @@
+../../CXFeedParser/Classes/NSString+XMLEntities.h

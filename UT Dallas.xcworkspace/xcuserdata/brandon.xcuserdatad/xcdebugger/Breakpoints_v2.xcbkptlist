@@ -34,8 +34,8 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[MainViewController sidebarButton]"
                   moduleName = "UT Dallas"
-                  urlString = "file:///Users/brandon/Desktop/UT%20Dallas/UT%20Dallas/MainViewController.h"
-                  timestampString = "417504156.831287"
+                  urlString = "file:///Users/brandon/Desktop/UT-Dallas-master/UT%20Dallas/MainViewController.h"
+                  timestampString = "420528718.909824"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "24"
@@ -48,8 +48,8 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[MainViewController setSidebarButton:]"
                   moduleName = "UT Dallas"
-                  urlString = "file:///Users/brandon/Desktop/UT%20Dallas/UT%20Dallas/MainViewController.h"
-                  timestampString = "417504156.831763"
+                  urlString = "file:///Users/brandon/Desktop/UT-Dallas-master/UT%20Dallas/MainViewController.h"
+                  timestampString = "420528718.910477"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "24"
@@ -78,8 +78,8 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[MapViewController viewMap]"
                   moduleName = "UT Dallas"
-                  urlString = "file:///Users/brandon/Desktop/UT%20Dallas/UT%20Dallas/MapViewController.h"
-                  timestampString = "417504156.837964"
+                  urlString = "file:///Users/brandon/Desktop/UT-Dallas-master/UT%20Dallas/MapViewController.h"
+                  timestampString = "420528718.920589"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -92,8 +92,8 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[MapViewController setViewMap:]"
                   moduleName = "UT Dallas"
-                  urlString = "file:///Users/brandon/Desktop/UT%20Dallas/UT%20Dallas/MapViewController.h"
-                  timestampString = "417504156.839047"
+                  urlString = "file:///Users/brandon/Desktop/UT-Dallas-master/UT%20Dallas/MapViewController.h"
+                  timestampString = "420528718.920935"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -101,6 +101,16 @@
                   offsetFromSymbolStart = "31">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

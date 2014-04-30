@@ -1,0 +1,1 @@
+../../CXFeedParser/Classes/MWFeedParserAppDelegate.h

@@ -1,0 +1,737 @@
+TUT Dallas
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/Info.plist /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/UT\ Dallas-Info.plist
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh
+cProcessPCH /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch.pch UT\ Dallas/UT\ Dallas-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/main.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AppDelegate.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SWRevealViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SWRevealViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/CalendarViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/CalendarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SportsViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SportsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SidebarViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SidebarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AboutViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MapViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/PhotoViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/PhotoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/DetailTableViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534B1CA40000000000000198
+t1397431460
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005332684200000000000003B4
+t1395812418
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053326848000000000000019E
+t1395812424
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534B1C7B0000000000446820
+t1397431419
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005332684B000000000088D8C0
+t1395812427
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005332684F0000000001F1DE10
+t1395812431
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533268780000000000000ADC
+t1395812472
+s2780
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT Dallas-Prefix.pch.pch
+t1398827803
+s122940
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/AboutViewController.o
+t1398827804
+s48428
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/AppDelegate.o
+t1398827804
+s65652
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/CalendarViewController.o
+t1398827804
+s43852
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o
+t1398827804
+s68404
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/MainViewController.o
+t1398827804
+s83012
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/MapViewController.o
+t1398827804
+s52588
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/PhotoViewController.o
+t1398827804
+s46636
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/SWRevealViewController.o
+t1398827804
+s212312
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/SidebarViewController.o
+t1398827804
+s68144
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/SportsViewController.o
+t1398827804
+s47836
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/UT Dallas.LinkFileList
+c0000000053606B1B0000000000000738
+t1398827803
+s1848
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/main.o
+t1398827804
+s3560
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh
+c0000000053606B1B0000000000000103
+t1398827803
+s259
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT Dallas.app/Info.plist
+t2
+s0
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT Dallas.app/PkgInfo
+t2
+s0
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT Dallas.app/UT Dallas
+t2
+s0
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a
+c0000000053606B1B000000000019C0D0
+t1398827803
+s1687760
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AboutViewController.m
+c0000000053601D76000000000000057D
+t1398807926
+s1405
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AppDelegate.m
+c0000000053601D760000000000000B27
+t1398807926
+s2855
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/CalendarViewController.m
+c0000000053601D76000000000000057C
+t1398807926
+s1404
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m
+c0000000053601D760000000000001B9A
+t1398807926
+s7066
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MainViewController.m
+c0000000053601D7600000000000016C7
+t1398807926
+s5831
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MapViewController.m
+c0000000053601D76000000000000056A
+t1398807926
+s1386
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/PhotoViewController.m
+c0000000053601D76000000000000044D
+t1398807926
+s1101
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.m
+c0000000053601D76000000000000BB46
+t1398807926
+s47942
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SidebarViewController.m
+c0000000053601D760000000000000B8F
+t1398807926
+s2959
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SportsViewController.m
+c0000000053601D76000000000000065C
+t1398807926
+s1628
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/UT Dallas-Info.plist
+c0000000053601D760000000000000A94
+t1398807926
+s2708
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/UT Dallas-Prefix.pch
+c0000000053601D760000000000000145
+t1398807926
+s325
+
+N/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/main.m
+c0000000053601D760000000000000144
+t1398807926
+s324
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/AboutViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/AppDelegate.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/CalendarViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/DetailTableViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MainViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MapViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/PhotoViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SWRevealViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SidebarViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SportsViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies53cfea9ba210b941^bfb5eb9ba210b941^---0#1#1#--18"Check dependencies36"8DFEB419-6962-4979-B891-BBDD9039C8C8-
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AboutViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520603.979773
+e420520604.084787
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/AboutViewController.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AboutViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AboutViewController.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AboutViewController.h
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AboutViewController.m227"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AboutViewController.o UT\ Dallas/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera8fdfa9ba210b941^31b5159ca210b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/AboutViewController.m0000000000000000^4405"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AboutViewController.o UT\ Dallas/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AboutViewController.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AboutViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/AboutViewController.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AboutViewController.o36"EBAC48AA-F69D-42F7-AF45-0B909136C362-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AppDelegate.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520603.977419
+e420520604.091549
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/AppDelegate.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AppDelegate.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AppDelegate.m211"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AppDelegate.o UT\ Dallas/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae4afa9ba210b941^6970179ca210b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/AppDelegate.m0000000000000000^4357"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AppDelegate.o UT\ Dallas/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AppDelegate.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/AppDelegate.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AppDelegate.o36"19D5A8C8-0191-49F1-A174-57C16D355846-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/CalendarViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/CalendarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520603.977922
+e420520604.078032
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/CalendarViewController.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/CalendarViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/CalendarViewController.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/CalendarViewController.h
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/CalendarViewController.m233"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/CalendarViewController.o UT\ Dallas/CalendarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercb81fa9ba210b941^4cfa139ca210b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/CalendarViewController.m0000000000000000^4423"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/CalendarViewController.o UT\ Dallas/CalendarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/CalendarViewController.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/CalendarViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/CalendarViewController.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/CalendarViewController.o36"C7F8FD91-66E6-4C6F-972F-F38BA04FF7DD-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/DetailTableViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520604.080709
+e420520604.169095
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.h
+o/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m:109:58: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o                        [cell.textLabel setTextAlignment:UITextAlignmentCenter];
+o                                                         ^
+oIn module 'UIKit' imported from /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m:109:58: warning: implicit conversion from enumeration type 'enum UITextAlignment' to different enumeration type 'NSTextAlignment' (aka 'enum NSTextAlignment') [-Wenum-conversion]
+o                        [cell.textLabel setTextAlignment:UITextAlignmentCenter];
+o                        ~                                ^~~~~~~~~~~~~~~~~~~~~
+o/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m:133:17: warning: property access result unused - getters should not be used for side effects [-Wunused-value]
+o                myImageView.clipsToBounds;
+o                ^~~~~~~~~~~~~~~~~~~~~~~~~
+o/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m:176:23: warning: 'sizeWithFont:constrainedToSize:lineBreakMode:' is deprecated: first deprecated in iOS 7.0 - Use -boundingRectWithSize:options:attributes:context: [-Wdeprecated-declarations]
+o                CGSize s = [summary sizeWithFont:[UIFont systemFontOfSize:15]
+o                                    ^
+oIn module 'UIKit' imported from /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:70:1: note: method 'sizeWithFont:constrainedToSize:lineBreakMode:' declared here
+o- (CGSize)sizeWithFont:(UIFont *)font constrainedToSize:(CGSize)size lineBreakMode:(NSLineBreakMode)lineBreakMode NS_DEPRECATED_IOS(2_0, 7_0, "Use -boundingRectWithSize:options:attributes:context:"); // NSTextAlignment is not needed to determine size
+o^
+o4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m239"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/DetailTableViewController.o UT\ Dallas/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc5ca149ca210b941^6b492b9ca210b941^-2517"/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m:109:58: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]                        [cell.textLabel setTextAlignment:UITextAlignmentCenter];                                                         ^In module 'UIKit' imported from /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m:109:58: warning: implicit conversion from enumeration type 'enum UITextAlignment' to different enumeration type 'NSTextAlignment' (aka 'enum NSTextAlignment') [-Wenum-conversion]                        [cell.textLabel setTextAlignment:UITextAlignmentCenter];                        ~                                ^~~~~~~~~~~~~~~~~~~~~/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m:133:17: warning: property access result unused - getters should not be used for side effects [-Wunused-value]                myImageView.clipsToBounds;                ^~~~~~~~~~~~~~~~~~~~~~~~~/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.m:176:23: warning: 'sizeWithFont:constrainedToSize:lineBreakMode:' is deprecated: first deprecated in iOS 7.0 - Use -boundingRectWithSize:options:attributes:context: [-Wdeprecated-declarations]                CGSize s = [summary sizeWithFont:[UIFont systemFontOfSize:15]                                    ^In module 'UIKit' imported from /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:70:1: note: method 'sizeWithFont:constrainedToSize:lineBreakMode:' declared here- (CGSize)sizeWithFont:(UIFont *)font constrainedToSize:(CGSize)size lineBreakMode:(NSLineBreakMode)lineBreakMode NS_DEPRECATED_IOS(2_0, 7_0, "Use -boundingRectWithSize:options:attributes:context:"); // NSTextAlignment is not needed to determine size^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-420520604#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-420520604#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@101"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/DetailTableViewController.m0000000000000000^108#57#108#57#2792#0#12"Deprecations--2@141"Implicit conversion from enumeration type 'enum UITextAlignment' to different enumeration type 'NSTextAlignment' (aka 'enum NSTextAlignment')-420520604#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@101"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/DetailTableViewController.m0000000000000000^108#57#108#57#2792#0#22"Value Conversion Issue2(3@101"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/DetailTableViewController.m0000000000000000^108#57#108#78#2792#0#3@101"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/DetailTableViewController.m0000000000000000^108#24#108#25#2759#0#-2@75"Property access result unused - getters should not be used for side effects-420520604#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@101"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/DetailTableViewController.m0000000000000000^132#16#132#16#3659#0#19"Unused Entity Issue1(3@101"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/DetailTableViewController.m0000000000000000^132#16#132#41#3659#12#-2@146"'sizeWithFont:constrainedToSize:lineBreakMode:' is deprecated: first deprecated in iOS 7.0 - Use -boundingRectWithSize:options:attributes:context:-420520604#18446744073709551615#0#1(2@68"Method 'sizeWithFont:constrainedToSize:lineBreakMode:' declared here-420520604#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^69#0#69#0#4398#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@101"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/DetailTableViewController.m0000000000000000^175#22#175#22#4427#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@101"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/DetailTableViewController.m0000000000000000^4441"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/DetailTableViewController.o UT\ Dallas/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/DetailTableViewController.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/DetailTableViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/DetailTableViewController.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/DetailTableViewController.o36"9BAF9110-BE78-4018-BCBA-51C59AFC8F0F-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520603.978321
+e420520604.113250
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/MainViewController.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MainViewController.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MainViewController.h
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.h
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/DetailTableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MainViewController.m225"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7495fa9ba210b941^60001d9ca210b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/MainViewController.m0000000000000000^4399"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MainViewController.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o36"B8441CE5-4054-4783-A1B3-52AA9EC49E46-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MapViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520604.028670
+e420520604.128509
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/MapViewController.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MapViewController.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MapViewController.h
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/MapViewController.m223"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MapViewController.o UT\ Dallas/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9f77079ca210b941^2ae6209ca210b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/MapViewController.m0000000000000000^4393"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MapViewController.o UT\ Dallas/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MapViewController.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MapViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MapViewController.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MapViewController.o36"1A2499F0-8B4A-4541-8810-78B0FD7BC6F0-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/PhotoViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/PhotoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520604.078307
+e420520604.163427
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/PhotoViewController.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/PhotoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/PhotoViewController.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/PhotoViewController.h
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/PhotoViewController.m227"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/PhotoViewController.o UT\ Dallas/PhotoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere92b149ca210b941^5ed9299ca210b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/PhotoViewController.m0000000000000000^4405"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/PhotoViewController.o UT\ Dallas/PhotoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/PhotoViewController.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/PhotoViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/PhotoViewController.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/PhotoViewController.o36"5177DF19-FBDA-421F-A679-1B14FEC15AC8-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SWRevealViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SWRevealViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520603.977684
+e420520604.215015
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/SWRevealViewController.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.m233"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SWRevealViewController.o UT\ Dallas/SWRevealViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb268fa9ba210b941^630d379ca210b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/SWRevealViewController.m0000000000000000^4423"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SWRevealViewController.o UT\ Dallas/SWRevealViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SWRevealViewController.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SWRevealViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SWRevealViewController.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SWRevealViewController.o36"99164CEC-4EEF-4B14-8C55-4F894EDA79DA-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SidebarViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SidebarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520603.979260
+e420520604.097054
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/SidebarViewController.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SidebarViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SidebarViewController.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SidebarViewController.h
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.h
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/PhotoViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SidebarViewController.m231"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SidebarViewController.o UT\ Dallas/SidebarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera2d0fa9ba210b941^c7d9189ca210b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/SidebarViewController.m0000000000000000^4417"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SidebarViewController.o UT\ Dallas/SidebarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SidebarViewController.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SidebarViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SidebarViewController.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SidebarViewController.o36"4A474322-0324-48D2-90E6-C64675B14C9B-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SportsViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SportsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520603.978757
+e420520604.078072
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/SportsViewController.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SportsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SportsViewController.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SportsViewController.h
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/SportsViewController.m229"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SportsViewController.o UT\ Dallas/SportsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3baafa9ba210b941^6b44149ca210b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/SportsViewController.m0000000000000000^4411"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SportsViewController.o UT\ Dallas/SportsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SportsViewController.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SportsViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/SportsViewController.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/SportsViewController.o36"5AFF4914-50B0-462A-B8E9-CB1C77E7E4E5-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/main.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520603.977180
+e420520604.026305
+r1
+xCompileC
+xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/main.o
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/main.m
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/main.m186"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8540fa9ba210b941^51bc069ca210b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/main.m0000000000000000^4293"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -include /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/main.d --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/main.dia -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/main.m -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/main.o36"397E5E9B-B83D-407E-B86D-69C4A0B1B3E0-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CCompileStoryboard /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MainStoryboard.storyboard
+r0
+
+CCpResource Fonts/DIN-Black.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN-Black.ttf
+r0
+
+CCpResource Fonts/DIN.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN.ttf
+r0
+
+CCpResource Fonts/DIN\ Alternate.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Alternate.ttf
+r0
+
+CCpResource Fonts/DIN\ Alternate\ Black.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Alternate\ Black.ttf
+r0
+
+CCpResource Fonts/DIN\ Alternate\ Bold.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Alternate\ Bold.ttf
+r0
+
+CCpResource Fonts/DIN\ Alternate\ Light.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Alternate\ Light.ttf
+r0
+
+CCpResource Fonts/DIN\ Alternate\ Medium.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Alternate\ Medium.ttf
+r0
+
+CCpResource Fonts/DIN\ Black.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Black.ttf
+r0
+
+CCpResource Fonts/DIN\ BlackAlternate.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ BlackAlternate.ttf
+r0
+
+CCpResource Fonts/DIN\ Bold.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Bold.ttf
+r0
+
+CCpResource Fonts/DIN\ BoldAlternate.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ BoldAlternate.ttf
+r0
+
+CCpResource Fonts/DIN\ Light.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Light.ttf
+r0
+
+CCpResource Fonts/DIN\ LightAlternate.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ LightAlternate.ttf
+r0
+
+CCpResource Fonts/DIN\ Medium.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Medium.ttf
+r0
+
+CCpResource Fonts/DIN\ MediumAlternate.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ MediumAlternate.ttf
+r0
+
+CCpResource Fonts/DIN\ RegularAlternate.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ RegularAlternate.ttf
+r0
+
+CCpResource Fonts/DIN\ Schablonierschrift.ttf Build/Products/Debug-iphonesimulator/UT\ Dallas.app/DIN\ Schablonierschrift.ttf
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon29x29.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon29x29.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon29x29@2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon29x29@2x.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon40x40.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon40x40.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon40x40@2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon40x40@2x.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon50x50.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon50x50.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon50x50@2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon50x50@2x.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon57x57@2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon57x57@2x.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon58x58.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon58x58.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon60x60.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon60x60.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon60x60@2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon60x60@2x.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon72x72.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon72x72.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon72x72@2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon72x72@2x.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon76x76.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon76x76.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/AppIcon76x76@2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/AppIcon76x76@2x.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/iTunesArtwork.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/iTunesArtwork.png
+r0
+
+CCpResource Icons/App\ Icon\ [Rounded]/iTunesArtwork@2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/iTunesArtwork@2x.png
+r0
+
+CCpResource Icons/Default-568.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/Default-568.png
+r0
+
+CCpResource Icons/Default-568h.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/Default-568h.png
+r0
+
+CCpResource Icons/Default2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/Default2x.png
+r0
+
+CCpResource Icons/Default@2x.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/Default@2x.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/calendar.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/calendar.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/cursor.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/cursor.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/document.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/document.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/folder.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/folder.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/gear.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/gear.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/location.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/location.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/magnifyingglass.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/magnifyingglass.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/map.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/map.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/megaphone2.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/megaphone2.png
+r0
+
+CCpResource Icons/Sidebar\ Icons/news.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/news.png
+r0
+
+CCpResource Icons/menu2.png Build/Products/Debug-iphonesimulator/UT\ Dallas.app/menu2.png
+r0
+
+CGenerateDSYMFile /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app.dSYM /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas
+r0
+
+CLd /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i386
+s420520604.217480
+e420520604.278172
+r0
+xLd
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT Dallas.app/UT Dallas
+xnormal
+xi386
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/UT Dallas.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/main.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/AppDelegate.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/SWRevealViewController.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/CalendarViewController.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/MainViewController.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/SportsViewController.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/SidebarViewController.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/AboutViewController.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/MapViewController.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/PhotoViewController.o
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+old: warning: directory not found for option '-L/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Pods/build/Debug-iphoneos'
+oduplicate symbol _OBJC_IVAR_$_DetailTableViewController.item in:
+o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o
+o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a(DetailTableViewController.o)
+oduplicate symbol _OBJC_IVAR_$_DetailTableViewController.summaryString in:
+o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o
+o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a(DetailTableViewController.o)
+oduplicate symbol _OBJC_CLASS_$_DetailTableViewController in:
+o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o
+o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a(DetailTableViewController.o)
+oduplicate symbol _OBJC_METACLASS_$_DetailTableViewController in:
+o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o
+o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a(DetailTableViewController.o)
+old: 4 duplicate symbols for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT Dallas.app/UT Dallas77"Ld Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i38631d2379ca210b941^e239479ca210b941^-1766"ld: warning: directory not found for option '-L/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Pods/build/Debug-iphoneos'duplicate symbol _OBJC_IVAR_$_DetailTableViewController.item in:    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a(DetailTableViewController.o)duplicate symbol _OBJC_IVAR_$_DetailTableViewController.summaryString in:    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a(DetailTableViewController.o)duplicate symbol _OBJC_CLASS_$_DetailTableViewController in:    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a(DetailTableViewController.o)duplicate symbol _OBJC_METACLASS_$_DetailTableViewController in:    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/DetailTableViewController.o    /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a(DetailTableViewController.o)ld: 4 duplicate symbols for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)3(21%IDEActivityLogMessage2@113"Directory not found for option '-L/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Pods/build/Debug-iphoneos'-420520604#0#127#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@41"4 duplicate symbols for architecture i386-420520604#1640#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-420520604#1686#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1627"Ld Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i386    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -L/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/build/Debug-iphoneos -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -filelist /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/UT\ Dallas.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework Foundation -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework Foundation -framework UIKit -framework CoreGraphics -lPods -Xlinker -dependency_info -Xlinker /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/UT\ Dallas_dependency_info.dat -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas36"7F56A840-233B-4D84-8296-0D7336C62147-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh
+s420520603.924308
+e420520603.937276
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'158"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh89efec9ba210b941^c3f2ef9ba210b941^---0#0#1#--405"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    /bin/sh -c \"/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh\"36"95D9E770-FF3A-43B1-8FBC-1E80008B1B61-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-15B7AE4BB1254AC6B2B9C337.sh
+r0
+
+CProcessInfoPlistFile /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/Info.plist /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/UT\ Dallas-Info.plist
+s420520603.921424
+e420520603.923410
+r1
+xProcessInfoPlistFile
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT Dallas.app/Info.plist
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/UT Dallas-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Process /Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/UT Dallas-Info.plist116"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/UT\ Dallas.app/Info.plist UT\ Dallas/UT\ Dallas-Info.plistbff3eb9ba210b941^ed64ec9ba210b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/UT%20Dallas-Info.plist0000000000000000^798"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/UT\ Dallas.app/Info.plist UT\ Dallas/UT\ Dallas-Info.plist    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/UT\ Dallas-Info.plist -genpkginfo /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/Info.plist36"CDFEFE8C-AC8F-4E0D-BE79-B21B1347B279-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/UT_Dallas-hicfvxsrpssxhabwltljcidzhfng/Index/PrecompiledHeaders/UT\ Dallas-Prefix-ankocbnhzybpcohgeqhegtolzjjz_ast/UT\ Dallas-Prefix.pch.pch UT\ Dallas/UT\ Dallas-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch.pch UT\ Dallas/UT\ Dallas-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420520603.937970
+e420520603.976512
+r1
+xProcessPCH
+x/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT Dallas-Prefix.pch.pch
+xUT Dallas/UT Dallas-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/UT-Dallas-master/UT Dallas/UT Dallas-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile UT Dallas/UT Dallas-Prefix.pch223"ProcessPCH Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch.pch UT\ Dallas/UT\ Dallas-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2f33f09ba210b941^76fef99ba210b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Volumes/Macintosh-%20Files/Downloads/UT-Dallas-master/UT%20Dallas/UT%20Dallas-Prefix.pch0000000000000000^4215"ProcessPCH Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch.pch UT\ Dallas/UT\ Dallas-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh- Files/Downloads/UT-Dallas-master"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CTidy -isystem /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Headers/CXFeedParser --serialize-diagnostics /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch.dia -MMD -MT dependencies -MF /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch.d -c /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/UT\ Dallas-Prefix.pch -o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-daivwfvgzhgfqfgvrzpjwslwibhr/UT\ Dallas-Prefix.pch.pch36"D4220F75-65F8-4093-8BF9-3F0ED6FCBFA8-
+b46BC57D3-BF3D-44D8-B00C-0BE5CD2982D3
+
+CTouch /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app
+r0
+

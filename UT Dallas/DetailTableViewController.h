@@ -1,5 +1,5 @@
 //
-//  DetailTableViewController.h
+//  DetailViewController.h
 //  
 //
 //  Created by Brandon Roeder on 3/25/14.
@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 @class MWFeedItem;
 
-@interface DetailTableViewController : UITableViewController
+@interface DetailViewController : UITableViewController
 {
     MWFeedItem *item;
 	NSString *summaryString;

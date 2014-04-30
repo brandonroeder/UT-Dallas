@@ -1,5 +1,5 @@
 #include "Pods-CXFeedParser.xcconfig"
 GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
-HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/CXFeedParser" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/CTidy" "${PODS_ROOT}/Headers/CXFeedParser"
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/CXFeedParser" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/CTidy" "${PODS_ROOT}/Headers/CXFeedParser" "${PODS_ROOT}/Headers/Google-Maps-iOS-SDK" "${PODS_ROOT}/Headers/Google-Maps-iOS-SDK/GoogleMaps"
 OTHER_LDFLAGS = -ObjC ${PODS_CXFEEDPARSER_OTHER_LDFLAGS}
 PODS_ROOT = ${SRCROOT}

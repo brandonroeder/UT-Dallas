@@ -9,14 +9,18 @@
 
 #import "MapViewController.h"
 #import "SWRevealViewController.h"
+#import <GoogleMaps/GoogleMaps.h>
+
 
 @interface MapViewController ()
 
 @end
 
 @implementation MapViewController
+{
+    GMSMapView *mapView_;
 
-
+}
 
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
@@ -32,21 +36,28 @@
 {
     [super viewDidLoad];
     
+    GMSCameraPosition *camera = [GMSCameraPosition cameraWithLatitude:32.98633
+                                                            longitude:-96.75130
+                                                                 zoom:15.5];
+    mapView_ = [GMSMapView mapWithFrame:CGRectZero camera:camera];
+    mapView_.myLocationEnabled = YES;
+    self.view = mapView_;
     
+    mapView_.settings.myLocationButton = YES;
     
-    self.title = @"Campus Map";
-
-    NSString *fullURL = @"https://www.utdallas.edu/mobile/maps.php";
-    NSURL *url = [NSURL URLWithString:fullURL];
-    NSURLRequest *requestObj = [NSURLRequest requestWithURL:url];
-    [_viewMap loadRequest:requestObj];
-
-
-
+    CLLocationCoordinate2D southWest = CLLocationCoordinate2DMake(32.977168,-96.762419);
+    CLLocationCoordinate2D northEast = CLLocationCoordinate2DMake(32.995653,-96.738923);
+    GMSCoordinateBounds *overlayBounds = [[GMSCoordinateBounds alloc] initWithCoordinate:southWest
+                                                                              coordinate:northEast];
     
-    // Change button color
-    _sidebarButton.tintColor = [UIColor colorWithWhite:0.1f alpha:0.9f];
-    
+    // Image from http://www.lib.utexas.edu/maps/historical/newark_nj_1922.jpg
+    UIImage *icon = [UIImage imageNamed:@"map-mobile.gif"];
+    GMSGroundOverlay *overlay =
+    [GMSGroundOverlay groundOverlayWithBounds:overlayBounds icon:icon];
+    overlay.bearing = 0;
+    overlay.map = mapView_;
+
+
     // Set the side bar button action. When it's tapped, it'll show up the sidebar.
     _sidebarButton.target = self.revealViewController;
     _sidebarButton.action = @selector(revealToggle:);
