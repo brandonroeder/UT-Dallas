@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-Google-Maps-iOS-SDK-dummy.m
+  /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-Google-Maps-iOS-SDK-dummy.m

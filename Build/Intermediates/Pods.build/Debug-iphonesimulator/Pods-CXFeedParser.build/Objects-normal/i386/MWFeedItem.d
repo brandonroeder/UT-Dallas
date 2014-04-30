@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/MWFeedItem.m \
-  /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/MWFeedItem.h
+  /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m \
+  /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedItem.h

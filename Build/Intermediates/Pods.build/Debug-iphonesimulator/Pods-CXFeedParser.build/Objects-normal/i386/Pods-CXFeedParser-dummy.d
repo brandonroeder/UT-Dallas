@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-CXFeedParser-dummy.m
+  /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-CXFeedParser-dummy.m

@@ -2,8 +2,8 @@ TPods
 v6
 r1
 cCheck dependencies
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods.a normal i386
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 c00000000533268310000000000A90C10
@@ -29,6 +29,39 @@ N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/
 c00000000533268780000000000000ADC
 t1395812472
 s2780
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+t1398828761
+s3104
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList
+c00000000536129830000000000000082
+t1398876547
+s130
+
+N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-CTidy.a
+c0000000053612EBD0000000000128D80
+t1398877885
+s1215872
+
+N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a
+c00000000536132230000000000071E10
+t1398878755
+s466448
+
+N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-Google-Maps-iOS-SDK.a
+c00000000536129820000000000000ED8
+t1398876546
+s3800
+
+N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods.a
+t1398877885
+s1688360
+
+N/Users/brandon/Desktop/UT Dallas/Pods/Pods-dummy.m
+c0000000053606CC10000000000000070
+t1398828225
+s112
 
 N/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
 t1398828761
@@ -94,12 +127,15 @@ s112
 CBuild AST from /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-dummy.m
 r0
 
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-dummy.m
+r0
+
 CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Pods-dummy.m
 r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies703ea10fdf10b941^2173a10fdf10b941^---0#1#1#--18"Check dependencies36"3802341D-ED14-4C9F-BBB8-9B08919BC0AA-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies959d76a36911b941^246177a36911b941^---0#1#1#--18"Check dependencies36"97CAFB0D-1C3C-4BF7-871B-28C571D6F583-
 
 CCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420521560.987005
@@ -115,6 +151,9 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-dummy.m
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-dummy.m226"CompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercdc8fc58a610b941^1ec50559a610b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-dummy.m0000000000000000^4139"CompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brandon/Desktop/UT-Dallas-master/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator -F/Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Google-Maps-iOS-SDK -isystem /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers -isystem /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers/CTidy -isystem /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers/CXFeedParser -isystem /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers/Google-Maps-iOS-SDK -isystem /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -MMD -MT dependencies -MF /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.d --serialize-diagnostics /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.dia -c /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-dummy.m -o /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o36"EB8376F4-C94B-40DE-B3DE-65131CD5497A-
 bD531A2F2-AA8B-4A69-B548-893C37605BC9
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
 
 CCompileC /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420520603.779197
@@ -143,6 +182,19 @@ o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods-CTidy.a(win32tc.o) has no symbols
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Libtool /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a normal i386106"Libtool /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a normal i3861c0a0359a610b941^2a8b1659a610b941^-442"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods-CTidy.a(iconvtc.o) has no symbols/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods-CTidy.a(win32tc.o) has no symbols-0#0#1#--1050"Libtool /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd /Users/brandon/Desktop/UT-Dallas-master/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator -filelist /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-CTidy -lPods-CXFeedParser -lPods-Google-Maps-iOS-SDK -o /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a36"643E717E-F700-4C33-81A5-230BD0B0C0F9-
 bD531A2F2-AA8B-4A69-B548-893C37605BC9
+
+CLibtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+s420571555.467050
+e420571555.518861
+r1
+xLibtool
+x/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-CTidy.a(iconvtc.o) has no symbols
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-CTidy.a(win32tc.o) has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Libtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods.a normal i386100"Libtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods.a normal i386f59d77a36911b941^67d484a36911b941^-428"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-CTidy.a(iconvtc.o) has no symbols/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-CTidy.a(win32tc.o) has no symbols-0#0#1#--1021"Libtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -filelist /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-CTidy -lPods-CXFeedParser -lPods-Google-Maps-iOS-SDK -o /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods.a36"1FF2BBB5-67FE-4DD2-B5B0-0755B43ECE9C-
+bB0F406D2-80CE-4C89-9C2F-7C18D56A2F4E
 
 CLibtool /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods.a normal i386
 s420520603.804683

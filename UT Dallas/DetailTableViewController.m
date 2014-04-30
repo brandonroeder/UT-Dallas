@@ -109,7 +109,7 @@ typedef enum { SectionDetailSummary } DetailRows;
 						cell.textLabel.text = itemTitle;
                         cell.textLabel.numberOfLines =0; // Multiline
                         cell.textLabel.lineBreakMode=NSLineBreakByWordWrapping;
-                        [cell.textLabel setTextAlignment:UITextAlignmentCenter];
+                        [cell.textLabel setTextAlignment:NSTextAlignmentCenter];
 
 						break;
 					case SectionHeaderURL:
@@ -135,7 +135,6 @@ typedef enum { SectionDetailSummary } DetailRows;
                 UIImageView *myImageView = [[UIImageView alloc] initWithFrame:CGRectMake(0,0,self.view.bounds.size.width,240)];
                 myImageView.tag = 1;
                 myImageView.image=[UIImage imageWithData: data];
-                myImageView.clipsToBounds;
                 [cell addSubview:myImageView];
                 
             
@@ -179,11 +178,18 @@ typedef enum { SectionDetailSummary } DetailRows;
 		
 		NSString *summary = @"[No Summary]";
 		if (summaryString) summary = summaryString;
-		CGSize s = [summary sizeWithFont:[UIFont systemFontOfSize:15]
-					   constrainedToSize:CGSizeMake(self.view.bounds.size.width - 40, MAXFLOAT)  // - 40 For cell padding
-						   lineBreakMode:NSLineBreakByWordWrapping];
         
-
+// OLD DEPRECATED CODE, REMOVED 4/30/14
+//		CGSize s = [summary sizeWithFont:[UIFont systemFontOfSize:15]
+//					   constrainedToSize:CGSizeMake(self.view.bounds.size.width - 40, MAXFLOAT)  // - 40 For cell padding
+//						   lineBreakMode:NSLineBreakByWordWrapping];
+        
+        CGRect textRect = [summary boundingRectWithSize:CGSizeMake(self.view.bounds.size.width - 40, MAXFLOAT)
+                                             options:NSStringDrawingUsesLineFragmentOrigin
+                                             attributes:@{NSFontAttributeName: [UIFont systemFontOfSize:15]}
+                                             context:nil];
+        
+        CGSize s = textRect.size;
 		return s.height + 16; // Add padding
 		
 	}

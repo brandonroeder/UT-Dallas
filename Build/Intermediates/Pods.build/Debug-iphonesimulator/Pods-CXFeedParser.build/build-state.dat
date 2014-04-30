@@ -2,20 +2,20 @@ TPods-CXFeedParser
 v6
 r1
 cCheck dependencies
-cProcessPCH /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-geofwfrjdnmejhbiyujlujlszxhk/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/GTMNSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/MWFeedInfo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/MWFeedItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/MWFeedParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/MWImageParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/NSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/NSString+XMLEntities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.o /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-CXFeedParser-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i386
+cProcessPCH /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWImageParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.o /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-CXFeedParser-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i386
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 c00000000533268310000000000A90C10
@@ -41,6 +41,217 @@ N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/
 c00000000533268780000000000000ADC
 t1395812472
 s2780
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o
+t1398878755
+s62724
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.o
+t1398876547
+s36828
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.o
+t1398876547
+s13820
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.o
+t1398876547
+s25068
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.o
+t1398877885
+s101544
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.o
+t1398876547
+s62900
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.o
+t1398876547
+s21088
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.o
+t1398876547
+s24524
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.o
+t1398876547
+s28216
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.o
+t1398876547
+s5128
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.o
+t1398876547
+s3428
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser.LinkFileList
+c0000000053612983000000000000070A
+t1398876547
+s1802
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o
+t1398876547
+s76184
+
+N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch.pch
+t1398876547
+s123936
+
+N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a
+t1398877885
+s465624
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CTidy/libtidy/include/buffio.h
+c0000000053601D760000000000000E12
+t1398807926
+s3602
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CTidy/libtidy/include/platform.h
+c0000000053601D7600000000000036E8
+t1398807926
+s14056
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CTidy/libtidy/include/tidy.h
+c0000000053601D76000000000000A8D1
+t1398807926
+s43217
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CTidy/libtidy/include/tidyenum.h
+c0000000053601D760000000000005E0D
+t1398807926
+s24077
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.h
+c0000000053606AE000000000000006BC
+t1398827744
+s1724
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.m
+c000000005361322200000000000017D9
+t1398878754
+s6105
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.h
+c0000000053606AE000000000000008F0
+t1398827744
+s2288
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.m
+c0000000053606AE000000000000036C3
+t1398827744
+s14019
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.h
+c0000000053606AE000000000000006DD
+t1398827744
+s1757
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.m
+c0000000053606AE00000000000000A27
+t1398827744
+s2599
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.h
+c0000000053606AE00000000000000ABA
+t1398827744
+s2746
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m
+c0000000053606AE00000000000000EA7
+t1398827744
+s3751
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser.h
+c0000000053606AE0000000000000135F
+t1398827744
+s4959
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser.m
+c0000000053612EBD000000000000825C
+t1398877885
+s33372
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.h
+c0000000053606AE000000000000006DA
+t1398827744
+s1754
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m
+c0000000053606AE0000000000000086E
+t1398827744
+s2158
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser_Private.h
+c0000000053606AE00000000000000B95
+t1398827744
+s2965
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWImageParser.h
+c0000000053606AE0000000000000068D
+t1398827744
+s1677
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWImageParser.m
+c0000000053606AE00000000000000C63
+t1398827744
+s3171
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.h
+c0000000053606AE00000000000000383
+t1398827744
+s899
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m
+c0000000053606AE00000000000001D51
+t1398827744
+s7505
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.h
+c0000000053606AE00000000000000B60
+t1398827744
+s2912
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.m
+c0000000053606AE00000000000002BAA
+t1398827744
+s11178
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.h
+c0000000053606AE000000000000006C8
+t1398827744
+s1736
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.m
+c0000000053606AE000000000000006DE
+t1398827744
+s1758
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/RootViewController.h
+c0000000053606AE000000000000006EF
+t1398827744
+s1775
+
+N/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/RootViewController.m
+c0000000053606AE00000000000001B5A
+t1398827744
+s7002
+
+N/Users/brandon/Desktop/UT Dallas/Pods/Pods-CXFeedParser-dummy.m
+c0000000053606CC1000000000000008A
+t1398828225
+s138
+
+N/Users/brandon/Desktop/UT Dallas/Pods/Pods-CXFeedParser-prefix.pch
+c0000000053606CC1000000000000004D
+t1398828225
+s77
+
+N/Users/brandon/Desktop/UT Dallas/Pods/Pods-environment.h
+c0000000053606CC10000000000000428
+t1398828225
+s1064
 
 N/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o
 t1398828760
@@ -500,6 +711,42 @@ r0
 CBuild AST from /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-CXFeedParser-dummy.m
 r0
 
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedParser.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWImageParser.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSString+HTML.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/RootViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-CXFeedParser-dummy.m
+r0
+
 CBuild AST from /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/CXFeedParser/Classes/DetailTableViewController.m
 r0
 
@@ -538,7 +785,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1adb9b0fdf10b941^e2219c0fdf10b941^---0#1#1#--18"Check dependencies36"8795BA74-28C5-4854-AB1F-ED05A2CBFF8D-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf90fd1a26911b941^c58dd3a26911b941^---0#1#1#--18"Check dependencies36"5FBD619B-4429-49CB-AA3B-0306225F4656-
 
 CCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420521560.781435
@@ -812,6 +1059,220 @@ d/Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/NSString+HTML
 d/Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/DetailTableViewController.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/RootViewController.m276"CompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o CXFeedParser/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3f37e058a610b941^d5cbf758a610b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/RootViewController.m0000000000000000^4188"CompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o CXFeedParser/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brandon/Desktop/UT-Dallas-master/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT-Dallas-master/Pods/BuildHeaders -I/Users/brandon/Desktop/UT-Dallas-master/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-geofwfrjdnmejhbiyujlujlszxhk/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.dia -c /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/RootViewController.m -o /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o36"AC8E6818-37FA-4175-9ACA-FE48F95B602B-
 b1D888E3E-5DF7-4535-89A6-0E61A69BE8D6
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420571554.821004
+e420571555.433716
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.m284"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o CXFeedParser/Classes/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere142d2a26911b941^35086fa36911b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.m0000000000000000^4099"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o CXFeedParser/Classes/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o36"EC5D7638-24C1-4603-A5F3-DF60897B485B-
+b153DE11A-1BEC-4FEF-9B63-9114512E902D
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.160106
+e420569347.273919
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.m266"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.o CXFeedParser/Classes/GTMNSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler802729036111b941^f31f46036111b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.m0000000000000000^4045"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.o CXFeedParser/Classes/GTMNSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/GTMNSString+HTML.o36"0866E108-427E-4BD5-8F23-0514B4201D7A-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.160526
+e420569347.239213
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.m254"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.o CXFeedParser/Classes/MWFeedInfo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler123129036111b941^9b1d3d036111b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.m0000000000000000^4009"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.o CXFeedParser/Classes/MWFeedInfo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedInfo.o36"8905018F-1106-4031-9E38-8BCD698E5B14-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.160926
+e420569347.245493
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m254"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.o CXFeedParser/Classes/MWFeedItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler115429036111b941^06d93e036111b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m0000000000000000^4009"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.o CXFeedParser/Classes/MWFeedItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedItem.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedItem.o36"C1085440-083C-4D46-BBF6-546F733BBAAD-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420570685.472913
+e420570685.564702
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser_Private.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWImageParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser.m258"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.o CXFeedParser/Classes/MWFeedParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1c27793d6611b941^6892903d6611b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/MWFeedParser.m0000000000000000^4021"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.o CXFeedParser/Classes/MWFeedParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedParser.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParser.o36"804977DB-974F-47CC-B237-9F34DA911FFD-
+bEC44CBA9-429C-4A3E-95C3-B1B0CDD7F4AB
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.161778
+e420569347.304223
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/RootViewController.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m280"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.o CXFeedParser/Classes/MWFeedParserAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera58729036111b941^48e24d036111b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m0000000000000000^4087"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.o CXFeedParser/Classes/MWFeedParserAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWFeedParserAppDelegate.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWFeedParserAppDelegate.o36"A06B0532-B43E-4FEF-8B9F-A859AFE23611-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWImageParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.162255
+e420569347.250410
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWImageParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWImageParser.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWImageParser.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CTidy/libtidy/include/tidy.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CTidy/libtidy/include/platform.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CTidy/libtidy/include/tidyenum.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CTidy/libtidy/include/buffio.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWImageParser.m260"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.o CXFeedParser/Classes/MWImageParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6dc629036111b941^ef1a40036111b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/MWImageParser.m0000000000000000^4027"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.o CXFeedParser/Classes/MWImageParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/MWImageParser.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/MWImageParser.o36"A6A3EDCA-1E02-458E-82CE-DF7F4DF3B7C1-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.162929
+e420569347.277708
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m280"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.o CXFeedParser/Classes/NSDate+InternetDateTime.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbbee29036111b941^981847036111b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m0000000000000000^4087"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.o CXFeedParser/Classes/NSDate+InternetDateTime.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSDate+InternetDateTime.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSDate+InternetDateTime.o36"9298243E-F3EB-4D75-A2D4-576590F77268-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.239620
+e420569347.313224
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/GTMNSString+HTML.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.m260"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.o CXFeedParser/Classes/NSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd97b3d036111b941^622f50036111b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/NSString+HTML.m0000000000000000^4027"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.o CXFeedParser/Classes/NSString+HTML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSString+HTML.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+HTML.o36"F7D523E3-3097-4105-9265-191A250A2B86-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.245852
+e420569347.292503
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.m274"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.o CXFeedParser/Classes/NSString+XMLEntities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1c0a3f036111b941^efe14a036111b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.m0000000000000000^4069"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.o CXFeedParser/Classes/NSString+XMLEntities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/NSString+XMLEntities.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/NSString+XMLEntities.o36"3133A0BA-9BF3-4C0E-89A5-6910BEBE38E6-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.o /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-CXFeedParser-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.250716
+e420569347.296092
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.o
+x/Users/brandon/Desktop/UT Dallas/Pods/Pods-CXFeedParser-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/Pods-CXFeedParser-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/brandon/Desktop/UT Dallas/Pods/Pods-CXFeedParser-dummy.m259"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.o Pods-CXFeedParser-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b4f40036111b941^36cd4b036111b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/brandon/Desktop/UT%20Dallas/Pods/Pods-CXFeedParser-dummy.m0000000000000000^4045"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.o Pods-CXFeedParser-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-CXFeedParser-dummy.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser-dummy.o36"BD6B2317-2197-45D3-835F-33F39BCF8B71-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
+CCompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.274306
+e420569347.360208
+r1
+xCompileC
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o
+x/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/RootViewController.m
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/RootViewController.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedParser.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedInfo.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/MWFeedItem.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/NSString+HTML.h
+d/Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/DetailTableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/brandon/Desktop/UT Dallas/Pods/CXFeedParser/Classes/RootViewController.m270"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o CXFeedParser/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler535b46036111b941^8f385c036111b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/brandon/Desktop/UT%20Dallas/Pods/CXFeedParser/Classes/RootViewController.m0000000000000000^4057"CompileC /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o CXFeedParser/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.dia -c /Users/brandon/Desktop/UT\ Dallas/Pods/CXFeedParser/Classes/RootViewController.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/RootViewController.o36"8160078E-FF25-419C-8726-2524B0F160F5-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
 
 CCompileC /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Pods/CXFeedParser/Classes/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420520603.558278
@@ -1097,6 +1558,17 @@ xi386
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Libtool /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i386119"Libtool /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i3869f76f858a610b941^3eebfa58a610b941^---0#0#1#--1042"Libtool /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i386    cd /Users/brandon/Desktop/UT-Dallas-master/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator -filelist /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser.LinkFileList -framework Foundation -o /Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a36"A1D903EB-C491-47AE-A3FB-EC7A203BD7F4-
 b1D888E3E-5DF7-4535-89A6-0E61A69BE8D6
 
+CLibtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i386
+s420571555.434466
+e420571555.460705
+r1
+xLibtool
+x/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Libtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i386113"Libtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i38602466fa36911b941^88f275a36911b941^---0#0#1#--1013"Libtool /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i386    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -filelist /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/Pods-CXFeedParser.LinkFileList -framework Foundation -o /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a36"F7D15A7E-BCB7-42FC-99D2-AC5CEEED6544-
+b153DE11A-1BEC-4FEF-9B63-9114512E902D
+
 CLibtool /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a normal i386
 s420520603.743562
 e420520603.768035
@@ -1124,7 +1596,26 @@ d/Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-environment.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-CXFeedParser-prefix.pch273"ProcessPCH /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-geofwfrjdnmejhbiyujlujlszxhk/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc460be58a610b941^de3dd458a610b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-CXFeedParser-prefix.pch0000000000000000^4028"ProcessPCH /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-geofwfrjdnmejhbiyujlujlszxhk/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brandon/Desktop/UT-Dallas-master/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT-Dallas-master/Pods/BuildHeaders -I/Users/brandon/Desktop/UT-Dallas-master/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT-Dallas-master/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT-Dallas-master/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-geofwfrjdnmejhbiyujlujlszxhk/Pods-CXFeedParser-prefix.pch.dia -MMD -MT dependencies -MF /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-geofwfrjdnmejhbiyujlujlszxhk/Pods-CXFeedParser-prefix.pch.d -c /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-CXFeedParser-prefix.pch -o /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-geofwfrjdnmejhbiyujlujlszxhk/Pods-CXFeedParser-prefix.pch.pch36"1CC76DFF-001E-445D-A0C0-0FEC516D60BE-
 b1D888E3E-5DF7-4535-89A6-0E61A69BE8D6
 
+CProcessPCH /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420569347.124069
+e420569347.158719
+r1
+xProcessPCH
+x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch.pch
+xPods-CXFeedParser-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/UT Dallas/Pods/Pods-CXFeedParser-prefix.pch
+d/Users/brandon/Desktop/UT Dallas/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-CXFeedParser-prefix.pch267"ProcessPCH /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdfdc1f036111b941^7fa428036111b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/brandon/Desktop/UT%20Dallas/Pods/Pods-CXFeedParser-prefix.pch0000000000000000^3903"ProcessPCH /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Pods-CXFeedParser-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders -I/Users/brandon/Desktop/UT\ Dallas/Pods/BuildHeaders/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch.dia -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch.d -c /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-CXFeedParser-prefix.pch -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/Pods-CXFeedParser-prefix-fulkeuulxzlfvlarfgvuozazxrql/Pods-CXFeedParser-prefix.pch.pch36"5F5FF6B3-F719-4EEC-B549-6CC065010407-
+b5FB6E586-8A9A-43B6-9255-68113C8C8967
+
 CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/UT_Dallas-agwxtcegzqocjbamadoqqxrruazh/Index/PrecompiledHeaders/Pods-CXFeedParser-prefix-fxrenfgzpmcpxlfitkputizjacmc_ast/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/UT_Dallas-ecnqyeggxoqkamapnzcwlzwevvqq/Index/PrecompiledHeaders/Pods-CXFeedParser-prefix-bhslrviwuwrjuufrsdsmbblzffis_ast/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
 
 CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/UT_Dallas-hicfvxsrpssxhabwltljcidzhfng/Index/PrecompiledHeaders/Pods-CXFeedParser-prefix-enqbgcymfnqsyyfysdnjivvfoxcs_ast/Pods-CXFeedParser-prefix.pch.pch Pods-CXFeedParser-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder

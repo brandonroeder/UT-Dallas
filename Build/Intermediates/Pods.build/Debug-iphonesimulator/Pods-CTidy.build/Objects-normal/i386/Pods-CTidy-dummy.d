@@ -1,2 +1,1 @@
-dependencies: \
-  /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-CTidy-dummy.m
+dependencies: /Users/brandon/Desktop/UT\ Dallas/Pods/Pods-CTidy-dummy.m
