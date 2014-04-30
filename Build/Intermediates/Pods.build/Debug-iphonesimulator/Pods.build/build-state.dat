@@ -55,8 +55,8 @@ t1398876546
 s3800
 
 N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods.a
-t1398877885
-s1688360
+t1398878755
+s1689184
 
 N/Users/brandon/Desktop/UT Dallas/Pods/Pods-dummy.m
 c0000000053606CC10000000000000070
@@ -135,7 +135,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies959d76a36911b941^246177a36911b941^---0#1#1#--18"Check dependencies36"97CAFB0D-1C3C-4BF7-871B-28C571D6F583-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4d84ad426c11b941^3db6ad426c11b941^---0#1#1#--18"Check dependencies36"F430A204-0CD6-4BE6-A03A-28FBDFB57A7B-
 
 CCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/brandon/Desktop/UT-Dallas-master/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420521560.987005

@@ -100,8 +100,8 @@ t1398876547
 s123936
 
 N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/libPods-CXFeedParser.a
-t1398877885
-s465624
+t1398878755
+s466448
 
 N/Users/brandon/Desktop/UT Dallas/Pods/CTidy/libtidy/include/buffio.h
 c0000000053601D760000000000000E12
@@ -785,7 +785,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf90fd1a26911b941^c58dd3a26911b941^---0#1#1#--18"Check dependencies36"5FBD619B-4429-49CB-AA3B-0306225F4656-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies533caa426c11b941^8a92ac426c11b941^---0#1#1#--18"Check dependencies36"1C5C2635-3EA8-457A-851E-AF4B950F6900-
 
 CCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CXFeedParser.build/Objects-normal/i386/DetailTableViewController.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CXFeedParser/Classes/DetailTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420521560.781435

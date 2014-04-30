@@ -26,16 +26,17 @@
 
     self.title = @"News";
     
+    tableRefresh = [[UIRefreshControl alloc]init];
+    [self.tableView addSubview:tableRefresh];
+    [tableRefresh addTarget:self action:@selector(refreshTable) forControlEvents:UIControlEventValueChanged];
+
+    
 	formatter = [[NSDateFormatter alloc] init];
 	[formatter setDateStyle:NSDateFormatterShortStyle];
 	[formatter setTimeStyle:NSDateFormatterShortStyle];
 	parsedItems = [[NSMutableArray alloc] init];
 	self->itemsToDisplay = [NSArray array];
 	
-	// Refresh button
-	self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemRefresh
-                                                                                           target:self
-                                                                                           action:@selector(refresh)];
 
 
     // Change button color
@@ -57,14 +58,19 @@
 
 }
 
-- (void)refresh {
-	self.title = @"Refreshing...";
+//Pull to refresh
+- (void)refreshTable {
+    self.title = @"Refreshing...";
 	[parsedItems removeAllObjects];
 	[feedParser stopParsing];
 	[feedParser parse];
 	self.tableView.userInteractionEnabled = NO;
 	self.tableView.alpha = 0.3;
+
+    [tableRefresh endRefreshing];
+    [self.tableView reloadData];
 }
+
 
 - (void)updateTableWithParsedItems {
 	self->itemsToDisplay = [parsedItems sortedArrayUsingDescriptors:

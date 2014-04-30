@@ -17,6 +17,7 @@
 	// Displaying
 	NSArray *itemsToDisplay;
 	NSDateFormatter *formatter;
+    UIRefreshControl *tableRefresh;
 
 
 }

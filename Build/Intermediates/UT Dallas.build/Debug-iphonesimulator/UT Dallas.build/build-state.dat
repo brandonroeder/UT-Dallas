@@ -364,8 +364,8 @@ t1398878756
 s68696
 
 N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/MainViewController.o
-t1398876547
-s82916
+t1398879426
+s83352
 
 N/Users/brandon/Desktop/UT Dallas/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/MapViewController.o
 t1398876547
@@ -407,11 +407,11 @@ t1398827803
 s259
 
 N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app
-t1398878756
+t1398879427
 s1972
 
 N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app.dSYM
-t1398878602
+t1398879379
 s102
 
 N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app/AppIcon29x29.png
@@ -567,8 +567,8 @@ t1398827803
 s8
 
 N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app/UT Dallas
-t1398878756
-s5725828
+t1398879427
+s5730156
 
 N/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app/calendar.png
 t1398828103
@@ -1125,14 +1125,14 @@ t1398841213
 s41185
 
 N/Users/brandon/Desktop/UT Dallas/UT Dallas/MainViewController.h
-c0000000053601D760000000000000238
-t1398807926
-s568
+c0000000053613492000000000000025C
+t1398879378
+s604
 
 N/Users/brandon/Desktop/UT Dallas/UT Dallas/MainViewController.m
-c0000000053606C4600000000000016BD
-t1398828102
-s5821
+c00000000536134C200000000000018C5
+t1398879426
+s6341
 
 N/Users/brandon/Desktop/UT Dallas/UT Dallas/MapViewController.h
 c0000000053601D760000000000000185
@@ -2940,7 +2940,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2f1785a36911b941^58378aa36911b941^---0#1#1#--18"Check dependencies36"E5B7EF36-F5C0-4599-A376-1FB02A6A94B1-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd32eae426c11b941^105bae426c11b941^---0#1#1#--18"Check dependencies36"9CAA4828-A1B8-4929-8B8D-2D358727208C-
 
 CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/AboutViewController.o /Users/brandon/Desktop/UT-Dallas-master/UT\ Dallas/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420521561.149798
@@ -3277,8 +3277,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile
 bA5D54E85-B95D-462A-B69C-56443D6D89AE
 
 CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o /Users/brandon/Desktop/UT\ Dallas/UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s420569347.763012
-e420569347.930074
+s420572226.824552
+e420572226.919853
 r1
 xCompileC
 xBuild/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Objects-normal/i386/MainViewController.o
@@ -3291,8 +3291,8 @@ d/Users/brandon/Desktop/UT Dallas/UT Dallas/MainViewController.m
 d/Users/brandon/Desktop/UT Dallas/UT Dallas/MainViewController.h
 d/Users/brandon/Desktop/UT Dallas/UT Dallas/SWRevealViewController.h
 d/Users/brandon/Desktop/UT Dallas/UT Dallas/DetailTableViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/brandon/Desktop/UT Dallas/UT Dallas/MainViewController.m225"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9679c3036111b941^e31bee036111b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/brandon/Desktop/UT%20Dallas/UT%20Dallas/MainViewController.m0000000000000000^4372"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -F/Users/brandon/Desktop/UT\ Dallas/Pods/Google-Maps-iOS-SDK -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-hgtcwrahnjfctugkyhwhyumgwuwg/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.dia -c /Users/brandon/Desktop/UT\ Dallas/UT\ Dallas/MainViewController.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o36"8FC84E3F-C0E8-4DA7-AAC8-FF8C11EA5042-
-b4B8E7D0B-51DA-48DB-9ACC-3746F8D62C61
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/brandon/Desktop/UT Dallas/UT Dallas/MainViewController.m225"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler693ad3426c11b941^af7beb426c11b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/brandon/Desktop/UT%20Dallas/UT%20Dallas/MainViewController.m0000000000000000^4372"CompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/UT Dallas"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-generated-files.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-own-target-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-all-target-headers.hmap -iquote /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/UT\ Dallas-project-headers.hmap -I/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -I/Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources/i386 -I/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/DerivedSources -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -F/Users/brandon/Desktop/UT\ Dallas/Pods/Google-Maps-iOS-SDK -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CTidy -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers/CXFeedParser -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK -isystem /Users/brandon/Desktop/UT\ Dallas/Pods/Headers/Google-Maps-iOS-SDK/GoogleMaps -include /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/PrecompiledHeaders/UT\ Dallas-Prefix-hgtcwrahnjfctugkyhwhyumgwuwg/UT\ Dallas-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.dia -c /Users/brandon/Desktop/UT\ Dallas/UT\ Dallas/MainViewController.m -o /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o36"B556D5EA-AAAB-4F96-9544-DABAD6EBC737-
+b79F0F816-9C09-4FAC-B45C-70F18AF07694
 
 CCompileC Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/MainViewController.o /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/UT\ Dallas/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420520902.985844
@@ -4307,14 +4307,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Genera
 bC36E47A4-C076-4CE6-AF40-4AF900B02173
 
 CGenerateDSYMFile /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/UT\ Dallas.app.dSYM /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas
-s420571556.765269
-e420571556.901739
+s420572227.253304
+e420572227.374629
 r1
 xGenerateDSYMFile
 x/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app.dSYM
 x/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app/UT Dallas
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Generate /Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app.dSYM136"GenerateDSYMFile Build/Products/Debug-iphonesimulator/UT\ Dallas.app.dSYM Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas34f8c3a46911b941^e4d8e6a46911b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/brandon/Desktop/UT%20Dallas/Build/Products/Debug-iphonesimulator/UT%20Dallas.app.dSYM/0000000000000000^665"GenerateDSYMFile Build/Products/Debug-iphonesimulator/UT\ Dallas.app.dSYM Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas    cd "/Users/brandon/Desktop/UT Dallas"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas -o /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/UT\ Dallas.app.dSYM36"5852825B-7EA6-4BEE-B451-42A1E33BD298-
-b7B303A61-D3FE-49B8-8B31-F8A53B8BD439
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Generate /Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app.dSYM136"GenerateDSYMFile Build/Products/Debug-iphonesimulator/UT\ Dallas.app.dSYM Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallascee340436c11b941^14e85f436c11b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/brandon/Desktop/UT%20Dallas/Build/Products/Debug-iphonesimulator/UT%20Dallas.app.dSYM/0000000000000000^665"GenerateDSYMFile Build/Products/Debug-iphonesimulator/UT\ Dallas.app.dSYM Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas    cd "/Users/brandon/Desktop/UT Dallas"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas -o /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/UT\ Dallas.app.dSYM36"1F3EA4AA-D1B7-41D4-A670-A5DCBF1DFAFE-
+b79F0F816-9C09-4FAC-B45C-70F18AF07694
 
 CGenerateDSYMFile /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app.dSYM /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas
 s420520903.127638
@@ -4429,8 +4429,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Link /
 bC36E47A4-C076-4CE6-AF40-4AF900B02173
 
 CLd /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i386
-s420571556.151596
-e420571556.764357
+s420572226.924693
+e420572227.252488
 r1
 xLd
 x/Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app/UT Dallas
@@ -4475,6 +4475,7 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
@@ -4497,15 +4498,14 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
 d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
 d/usr/lib/system/libcache.dylib
 d/usr/lib/system/libcommonCrypto.dylib
 d/usr/lib/system/libcompiler_rt.dylib
 d/usr/lib/system/libcopyfile.dylib
 d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libdyld.dylib
 d/usr/lib/system/libkeymgr.dylib
 d/usr/lib/system/liblaunch.dylib
 d/usr/lib/system/libmacho.dylib
@@ -4526,9 +4526,8 @@ d/usr/lib/system/libsystem_pthread.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app/UT Dallas77"Ld Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i38669e126a46911b941^03cdc3a46911b941^---0#0#1#--1966"Ld Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i386    cd "/Users/brandon/Desktop/UT Dallas"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -F/Users/brandon/Desktop/UT\ Dallas/Pods/Google-Maps-iOS-SDK -filelist /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/UT\ Dallas.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -lc++ -licucore -lz -framework AVFoundation -framework CoreData -framework CoreGraphics -framework CoreLocation -framework CoreText -framework Foundation -framework GLKit -framework GoogleMaps -framework ImageIO -framework OpenGLES -framework QuartzCore -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework SystemConfiguration -framework QuartzCore -framework OpenGLES -lz -licucore -lc++ -framework ImageIO -framework GLKit -framework CoreText -framework CoreLocation -framework CoreData -framework AVFoundation -framework Foundation -framework UIKit -framework CoreGraphics -lPods -Xlinker -dependency_info -Xlinker /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/UT\ Dallas_dependency_info.dat -o /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas36"227B9836-5811-4D59-8F68-98D5EE65ECC9-
-b7B303A61-D3FE-49B8-8B31-F8A53B8BD439
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/brandon/Desktop/UT Dallas/Build/Products/Debug-iphonesimulator/UT Dallas.app/UT Dallas77"Ld Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i38694d9ec426c11b941^d7a340436c11b941^---0#0#1#--1966"Ld Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i386    cd "/Users/brandon/Desktop/UT Dallas"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -F/Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator -F/Users/brandon/Desktop/UT\ Dallas/Pods/Google-Maps-iOS-SDK -filelist /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/UT\ Dallas.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -lc++ -licucore -lz -framework AVFoundation -framework CoreData -framework CoreGraphics -framework CoreLocation -framework CoreText -framework Foundation -framework GLKit -framework GoogleMaps -framework ImageIO -framework OpenGLES -framework QuartzCore -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework SystemConfiguration -framework QuartzCore -framework OpenGLES -lz -licucore -lc++ -framework ImageIO -framework GLKit -framework CoreText -framework CoreLocation -framework CoreData -framework AVFoundation -framework Foundation -framework UIKit -framework CoreGraphics -lPods -Xlinker -dependency_info -Xlinker /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Objects-normal/i386/UT\ Dallas_dependency_info.dat -o /Users/brandon/Desktop/UT\ Dallas/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas36"4DA3A813-D11D-4BE5-AAC1-8D11450D8DE4-
+b79F0F816-9C09-4FAC-B45C-70F18AF07694
 
 CLd /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Products/Debug-iphonesimulator/UT\ Dallas.app/UT\ Dallas normal i386
 s420520903.069510
@@ -4632,14 +4631,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run cus
 bC36E47A4-C076-4CE6-AF40-4AF900B02173
 
 CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh
-s420571555.538876
-e420571555.580306
+s420572226.681612
+e420572226.821145
 r1
 xPhaseScriptExecution
 xCheck Pods Manifest.lock
 x/Users/brandon/Desktop/UT Dallas/Build/Intermediates/UT Dallas.build/Debug-iphonesimulator/UT Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'158"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.she84c8aa36911b941^fc8f94a36911b941^---0#0#1#--365"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh    cd "/Users/brandon/Desktop/UT Dallas"    /bin/sh -c \"/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh\"36"5B1871D0-194C-43FF-9121-B568CE88463B-
-b7B303A61-D3FE-49B8-8B31-F8A53B8BD439
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'158"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh7fdcae426c11b941^ebacd6426c11b941^---0#0#1#--365"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh    cd "/Users/brandon/Desktop/UT Dallas"    /bin/sh -c \"/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh\"36"F8BA1F2D-0A63-45C4-8DA4-2275E6632260-
+b79F0F816-9C09-4FAC-B45C-70F18AF07694
 
 CPhaseScriptExecution Check\ Pods\ Manifest.lock /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-3300B54FFAAE4C288F4DB766.sh
 s420520902.972730
@@ -4667,8 +4666,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run cus
 bC36E47A4-C076-4CE6-AF40-4AF900B02173
 
 CPhaseScriptExecution Copy\ Pods\ Resources /Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-15B7AE4BB1254AC6B2B9C337.sh
-s420571556.906849
-e420571557.011840
+s420572227.379431
+e420572227.484475
 r1
 xPhaseScriptExecution
 xCopy Pods Resources
@@ -4678,8 +4677,8 @@ obuilding file list ... done
 o
 osent 2508 bytes  received 20 bytes  5056.00 bytes/sec
 ototal size is 109426  speedup is 43.29
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'153"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-15B7AE4BB1254AC6B2B9C337.sh1976e8a46911b941^200903a56911b941^-240"/Users/brandon/Desktop/UT Dallas/Pods/Google-Maps-iOS-SDK/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundlebuilding file list ... donesent 2508 bytes  received 20 bytes  5056.00 bytes/sectotal size is 109426  speedup is 43.294(21%IDEActivityLogMessage2@118"/Users/brandon/Desktop/UT Dallas/Pods/Google-Maps-iOS-SDK/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle-420571556#0#118#-0#-----2@28"building file list ... done-420571556#118#28#-0#-----2@54"sent 2508 bytes  received 20 bytes  5056.00 bytes/sec-420571556#147#54#-0#-----2@39"total size is 109426  speedup is 43.29-420571556#201#39#-0#-----0#0#1#--360"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-15B7AE4BB1254AC6B2B9C337.sh    cd "/Users/brandon/Desktop/UT Dallas"    /bin/sh -c \"/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-15B7AE4BB1254AC6B2B9C337.sh\"36"292AD6B9-9416-4897-8237-D109877E1505-
-b7B303A61-D3FE-49B8-8B31-F8A53B8BD439
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'153"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-15B7AE4BB1254AC6B2B9C337.sh267261436c11b941^ff077c436c11b941^-240"/Users/brandon/Desktop/UT Dallas/Pods/Google-Maps-iOS-SDK/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundlebuilding file list ... donesent 2508 bytes  received 20 bytes  5056.00 bytes/sectotal size is 109426  speedup is 43.294(21%IDEActivityLogMessage2@118"/Users/brandon/Desktop/UT Dallas/Pods/Google-Maps-iOS-SDK/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle-420572227#0#118#-0#-----2@28"building file list ... done-420572227#118#28#-0#-----2@54"sent 2508 bytes  received 20 bytes  5056.00 bytes/sec-420572227#147#54#-0#-----2@39"total size is 109426  speedup is 43.29-420572227#201#39#-0#-----0#0#1#--360"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-15B7AE4BB1254AC6B2B9C337.sh    cd "/Users/brandon/Desktop/UT Dallas"    /bin/sh -c \"/Users/brandon/Desktop/UT\ Dallas/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-15B7AE4BB1254AC6B2B9C337.sh\"36"C4205207-9750-4B65-8751-23EE4E850DC1-
+b79F0F816-9C09-4FAC-B45C-70F18AF07694
 
 CPhaseScriptExecution Copy\ Pods\ Resources /Volumes/Macintosh-\ Files/Downloads/UT-Dallas-master/Build/Intermediates/UT\ Dallas.build/Debug-iphonesimulator/UT\ Dallas.build/Script-15B7AE4BB1254AC6B2B9C337.sh
 s420520904.944843

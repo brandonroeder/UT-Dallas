@@ -1538,7 +1538,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4c50c3a26911b941^984cc5a26911b941^---0#1#1#--18"Check dependencies36"2ACCF61D-BE4C-4EF9-A914-D5F96CDA7CB9-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfb1fa4426c11b941^ff5ba5426c11b941^---0#1#1#--18"Check dependencies36"014EA62F-F712-499C-B74D-BEC9F72038FA-
 
 CCompileC /Users/brandon/Desktop/UT-Dallas-master/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CTidy.build/Objects-normal/i386/CTidy.o /Users/brandon/Desktop/UT-Dallas-master/Pods/CTidy/CTidy/CTidy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420521560.212095
